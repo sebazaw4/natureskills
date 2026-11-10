@@ -26,6 +26,8 @@ The first reply gives you one palette per style:
 
 Each palette comes with an English name, three copyable HEX codes, and a square preview showing 60% dominant, 30% supporting, and 10% accent. Pick one, two, or all three. Ask for alternatives in any style, or ask the skill to apply your selection.
 
+In the finished design, the proportions describe approximate visible area. The dominant color covers the largest surfaces, the supporting color fills smaller areas, and the accent stays concentrated in focal details.
+
 ## Catalog status
 
 This public preview includes **414 palettes**. Browse them [by style](examples/style-board.svg) or open the [subject board](examples/produce-board.svg). The [flower board](examples/flower-board.svg) and [animal board](examples/animal-board.svg) show those collections separately.

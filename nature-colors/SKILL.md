@@ -30,4 +30,16 @@ node scripts/preview.mjs ./palette.svg "#C49EAA" "#AAAD43" "#CEA378"
 
 Run the script via its path in this skill folder. Save the SVG in a writable output directory and embed or link it using the host's supported local file format. If Node.js is unavailable, use the same geometry in an SVG: fill the left 60% of the square with the dominant color, then split the right 40% into a top area 75% of the square's height and a bottom area 25% of its height.
 
-Show the three options before applying a new palette. Once the user has selected a palette and requested application, map the roles to the project and check readability of actual foreground and background pairs. If the user selects multiple palettes for one project, treat them as separate variants. Use the proportions as a visual guide. Preserve an existing approved palette unless the user requests a color change.
+Show the three options before applying a new palette. Apply only the selected palettes when the user requests application. Treat multiple selections as separate variants. Preserve an existing approved palette unless the user requests a color change.
+
+## Apply 60/30/10 to the composition
+
+Treat 60/30/10 as approximate shares of visible area across the composition. Estimate the area of the color regions together, including repeated elements. The percentages describe coverage, independent of how many elements, CSS tokens, or prompt mentions use each color. The square preview uses exact proportions. The delivered design can vary modestly while keeping the same hierarchy.
+
+- **60% dominant.** Use the first color on the largest continuous surfaces or visual masses, such as the page background, poster field, or main scene. It should clearly occupy more area than the supporting color.
+- **30% supporting.** Use the second color on subordinate surfaces or forms, such as a group of panels, a secondary section, or an illustration mass. Give it enough room to support the dominant color without making the design look evenly split.
+- **Around 10% accent.** Reserve the third color for small, deliberate focal details such as a primary button, a highlight, or a few marks. Judge their combined area. A repeated accent, a full-width accent section, or a large accent-colored object can overpower the composition. This applies to Crazy palettes too.
+
+Before generating or editing, assign each HEX to specific regions. When prompting an image or video generator, include those regions and their approximate shares explicitly in the prompt. For interfaces, map the roles to actual surfaces and controls and check readability of the foreground and background pairs.
+
+Inspect the rendered result before delivery whenever it is available. Check that the first color visibly dominates, the second reads as support, and the third remains a small focal accent. In an interface, check representative desktop and mobile views when available. If the hierarchy drifts, rebalance region sizes or recolor repeated details and inspect the revision. Use approximate visual judgment for textures, gradients, and photographs. If you cannot inspect the render, describe the intended allocations as a plan.
