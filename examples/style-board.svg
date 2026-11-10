@@ -1,0 +1,3329 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1152" height="13633" viewBox="0 0 1152 13633">
+<title>NatureColors · Palettes by style</title>
+<desc>414 square palettes with three colors each in 60/30/10 proportions.</desc>
+<style>
+  text { fill: #28261F; font-family: system-ui, sans-serif; }
+  .section { font-size: 18px; font-weight: 700; }
+  .name { font-size: 12px; font-weight: 700; }
+  .hex { font-family: monospace; font-size: 10px; }
+</style>
+<rect width="1152" height="13633" fill="#FAF7F1"/>
+<text x="24" y="46" font-size="32" font-weight="700">NatureColors · Palettes by style</text>
+<text x="24" y="73" font-size="14">414 palettes · HEX order 60% / 30% / 10%</text>
+<text x="24" y="96" font-size="13">Professional is restrained, Brave adds a focal color, and Crazy brings three expressive hues together.</text>
+<text x="24" y="135" class="section">Professional · 224</text>
+<g transform="translate(24 153)">
+  <title>1. Red Onion · #F7D6C1 / #BE8985 / #6D3438</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F7D6C1"/>
+<rect x="60" width="40" height="75" fill="#BE8985"/>
+<rect x="60" y="75" width="40" height="25" fill="#6D3438"/></g>
+  <text y="155" class="name">1. Red Onion</text>
+  <text y="173" class="hex">#F7D6C1 · #BE8985 · #6D3438</text>
+</g>
+<g transform="translate(210 153)">
+  <title>2. Banded Iron Ore · #704844 / #9A7D7B / #3D373A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#704844"/>
+<rect x="60" width="40" height="75" fill="#9A7D7B"/>
+<rect x="60" y="75" width="40" height="25" fill="#3D373A"/></g>
+  <text y="155" class="name">2. Banded Iron Ore</text>
+  <text y="173" class="hex">#704844 · #9A7D7B · #3D373A</text>
+</g>
+<g transform="translate(396 153)">
+  <title>3. Coal Seam · #3B3732 / #797166 / #B4A489</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3B3732"/>
+<rect x="60" width="40" height="75" fill="#797166"/>
+<rect x="60" y="75" width="40" height="25" fill="#B4A489"/></g>
+  <text y="155" class="name">3. Coal Seam</text>
+  <text y="173" class="hex">#3B3732 · #797166 · #B4A489</text>
+</g>
+<g transform="translate(582 153)">
+  <title>4. Chalcopyrite Ore · #756B60 / #A17F50 / #584A45</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#756B60"/>
+<rect x="60" width="40" height="75" fill="#A17F50"/>
+<rect x="60" y="75" width="40" height="25" fill="#584A45"/></g>
+  <text y="155" class="name">4. Chalcopyrite Ore</text>
+  <text y="173" class="hex">#756B60 · #A17F50 · #584A45</text>
+</g>
+<g transform="translate(768 153)">
+  <title>5. Malachite in Quartz · #C7C0B1 / #427358 / #2F4F3D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C7C0B1"/>
+<rect x="60" width="40" height="75" fill="#427358"/>
+<rect x="60" y="75" width="40" height="25" fill="#2F4F3D"/></g>
+  <text y="155" class="name">5. Malachite in Quartz</text>
+  <text y="173" class="hex">#C7C0B1 · #427358 · #2F4F3D</text>
+</g>
+<g transform="translate(954 153)">
+  <title>6. Bauxite · #B0754F / #714A40 / #C8AA88</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B0754F"/>
+<rect x="60" width="40" height="75" fill="#714A40"/>
+<rect x="60" y="75" width="40" height="25" fill="#C8AA88"/></g>
+  <text y="155" class="name">6. Bauxite</text>
+  <text y="173" class="hex">#B0754F · #714A40 · #C8AA88</text>
+</g>
+<g transform="translate(24 341)">
+  <title>7. Cassiterite in Quartz · #D3CBBC / #36343A / #7D6F67</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D3CBBC"/>
+<rect x="60" width="40" height="75" fill="#36343A"/>
+<rect x="60" y="75" width="40" height="25" fill="#7D6F67"/></g>
+  <text y="155" class="name">7. Cassiterite in Quartz</text>
+  <text y="173" class="hex">#D3CBBC · #36343A · #7D6F67</text>
+</g>
+<g transform="translate(210 341)">
+  <title>8. Sphalerite in Quartz · #BDB197 / #684D3E / #8C694A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BDB197"/>
+<rect x="60" width="40" height="75" fill="#684D3E"/>
+<rect x="60" y="75" width="40" height="25" fill="#8C694A"/></g>
+  <text y="155" class="name">8. Sphalerite in Quartz</text>
+  <text y="173" class="hex">#BDB197 · #684D3E · #8C694A</text>
+</g>
+<g transform="translate(396 341)">
+  <title>9. Emerald in Matrix · #595550 / #366F57 / #A6A293</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#595550"/>
+<rect x="60" width="40" height="75" fill="#366F57"/>
+<rect x="60" y="75" width="40" height="25" fill="#A6A293"/></g>
+  <text y="155" class="name">9. Emerald in Matrix</text>
+  <text y="173" class="hex">#595550 · #366F57 · #A6A293</text>
+</g>
+<g transform="translate(582 341)">
+  <title>10. Diamond in Kimberlite · #686563 / #474643 / #D1C9C3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#686563"/>
+<rect x="60" width="40" height="75" fill="#474643"/>
+<rect x="60" y="75" width="40" height="25" fill="#D1C9C3"/></g>
+  <text y="155" class="name">10. Diamond in Kimberlite</text>
+  <text y="173" class="hex">#686563 · #474643 · #D1C9C3</text>
+</g>
+<g transform="translate(768 341)">
+  <title>11. Sapphire in Matrix · #9E9482 / #677175 / #D2C8B5</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9E9482"/>
+<rect x="60" width="40" height="75" fill="#677175"/>
+<rect x="60" y="75" width="40" height="25" fill="#D2C8B5"/></g>
+  <text y="155" class="name">11. Sapphire in Matrix</text>
+  <text y="173" class="hex">#9E9482 · #677175 · #D2C8B5</text>
+</g>
+<g transform="translate(954 341)">
+  <title>12. Amethyst Geode · #756A81 / #493756 / #C7C7C7</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#756A81"/>
+<rect x="60" width="40" height="75" fill="#493756"/>
+<rect x="60" y="75" width="40" height="25" fill="#C7C7C7"/></g>
+  <text y="155" class="name">12. Amethyst Geode</text>
+  <text y="173" class="hex">#756A81 · #493756 · #C7C7C7</text>
+</g>
+<g transform="translate(24 529)">
+  <title>13. Garnet in Schist · #7A8878 / #6A4835 / #ABA697</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7A8878"/>
+<rect x="60" width="40" height="75" fill="#6A4835"/>
+<rect x="60" y="75" width="40" height="25" fill="#ABA697"/></g>
+  <text y="155" class="name">13. Garnet in Schist</text>
+  <text y="173" class="hex">#7A8878 · #6A4835 · #ABA697</text>
+</g>
+<g transform="translate(210 529)">
+  <title>14. Salt and Pepper Granite · #A5A6A1 / #D6D3CC / #424442</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A5A6A1"/>
+<rect x="60" width="40" height="75" fill="#D6D3CC"/>
+<rect x="60" y="75" width="40" height="25" fill="#424442"/></g>
+  <text y="155" class="name">14. Salt and Pepper Granite</text>
+  <text y="173" class="hex">#A5A6A1 · #D6D3CC · #424442</text>
+</g>
+<g transform="translate(396 529)">
+  <title>15. Pink Granite · #B78672 / #D7B5AA / #514B46</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B78672"/>
+<rect x="60" width="40" height="75" fill="#D7B5AA"/>
+<rect x="60" y="75" width="40" height="25" fill="#514B46"/></g>
+  <text y="155" class="name">15. Pink Granite</text>
+  <text y="173" class="hex">#B78672 · #D7B5AA · #514B46</text>
+</g>
+<g transform="translate(582 529)">
+  <title>16. Carrara Marble · #DDDACA / #B4B2A9 / #7D8076</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DDDACA"/>
+<rect x="60" width="40" height="75" fill="#B4B2A9"/>
+<rect x="60" y="75" width="40" height="25" fill="#7D8076"/></g>
+  <text y="155" class="name">16. Carrara Marble</text>
+  <text y="173" class="hex">#DDDACA · #B4B2A9 · #7D8076</text>
+</g>
+<g transform="translate(768 529)">
+  <title>17. Pink Marble · #C5B198 / #DACAB8 / #86796A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C5B198"/>
+<rect x="60" width="40" height="75" fill="#DACAB8"/>
+<rect x="60" y="75" width="40" height="25" fill="#86796A"/></g>
+  <text y="155" class="name">17. Pink Marble</text>
+  <text y="173" class="hex">#C5B198 · #DACAB8 · #86796A</text>
+</g>
+<g transform="translate(954 529)">
+  <title>18. Connemara Green Marble · #656E51 / #A3A17A / #D4D5AD</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#656E51"/>
+<rect x="60" width="40" height="75" fill="#A3A17A"/>
+<rect x="60" y="75" width="40" height="25" fill="#D4D5AD"/></g>
+  <text y="155" class="name">18. Connemara Green Marble</text>
+  <text y="173" class="hex">#656E51 · #A3A17A · #D4D5AD</text>
+</g>
+<g transform="translate(24 717)">
+  <title>19. Olivine Basalt · #4D4943 / #797470 / #A0845F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4D4943"/>
+<rect x="60" width="40" height="75" fill="#797470"/>
+<rect x="60" y="75" width="40" height="25" fill="#A0845F"/></g>
+  <text y="155" class="name">19. Olivine Basalt</text>
+  <text y="173" class="hex">#4D4943 · #797470 · #A0845F</text>
+</g>
+<g transform="translate(210 717)">
+  <title>20. Banded Gneiss · #ABA29B / #645E58 / #DAD0C1</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#ABA29B"/>
+<rect x="60" width="40" height="75" fill="#645E58"/>
+<rect x="60" y="75" width="40" height="25" fill="#DAD0C1"/></g>
+  <text y="155" class="name">20. Banded Gneiss</text>
+  <text y="173" class="hex">#ABA29B · #645E58 · #DAD0C1</text>
+</g>
+<g transform="translate(396 717)">
+  <title>21. Mercury · #8C7A73 / #B49D92 / #5E5450</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8C7A73"/>
+<rect x="60" width="40" height="75" fill="#B49D92"/>
+<rect x="60" y="75" width="40" height="25" fill="#5E5450"/></g>
+  <text y="155" class="name">21. Mercury</text>
+  <text y="173" class="hex">#8C7A73 · #B49D92 · #5E5450</text>
+</g>
+<g transform="translate(582 717)">
+  <title>22. Venus · #D1C9B7 / #ACA494 / #E1D9CA</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D1C9B7"/>
+<rect x="60" width="40" height="75" fill="#ACA494"/>
+<rect x="60" y="75" width="40" height="25" fill="#E1D9CA"/></g>
+  <text y="155" class="name">22. Venus</text>
+  <text y="173" class="hex">#D1C9B7 · #ACA494 · #E1D9CA</text>
+</g>
+<g transform="translate(768 717)">
+  <title>23. Earth · #35527D / #677A4A / #E2E7E5</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#35527D"/>
+<rect x="60" width="40" height="75" fill="#677A4A"/>
+<rect x="60" y="75" width="40" height="25" fill="#E2E7E5"/></g>
+  <text y="155" class="name">23. Earth</text>
+  <text y="173" class="hex">#35527D · #677A4A · #E2E7E5</text>
+</g>
+<g transform="translate(954 717)">
+  <title>24. Mars · #AD764F / #C3875F / #6C4D3C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AD764F"/>
+<rect x="60" width="40" height="75" fill="#C3875F"/>
+<rect x="60" y="75" width="40" height="25" fill="#6C4D3C"/></g>
+  <text y="155" class="name">24. Mars</text>
+  <text y="173" class="hex">#AD764F · #C3875F · #6C4D3C</text>
+</g>
+<g transform="translate(24 905)">
+  <title>25. Jupiter · #BFB296 / #938876 / #65635A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BFB296"/>
+<rect x="60" width="40" height="75" fill="#938876"/>
+<rect x="60" y="75" width="40" height="25" fill="#65635A"/></g>
+  <text y="155" class="name">25. Jupiter</text>
+  <text y="173" class="hex">#BFB296 · #938876 · #65635A</text>
+</g>
+<g transform="translate(210 905)">
+  <title>26. Saturn · #D2BA8A / #A79470 / #585041</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D2BA8A"/>
+<rect x="60" width="40" height="75" fill="#A79470"/>
+<rect x="60" y="75" width="40" height="25" fill="#585041"/></g>
+  <text y="155" class="name">26. Saturn</text>
+  <text y="173" class="hex">#D2BA8A · #A79470 · #585041</text>
+</g>
+<g transform="translate(396 905)">
+  <title>27. Uranus · #9DB6B8 / #7588A2 / #B0CDCE</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9DB6B8"/>
+<rect x="60" width="40" height="75" fill="#7588A2"/>
+<rect x="60" y="75" width="40" height="25" fill="#B0CDCE"/></g>
+  <text y="155" class="name">27. Uranus</text>
+  <text y="173" class="hex">#9DB6B8 · #7588A2 · #B0CDCE</text>
+</g>
+<g transform="translate(582 905)">
+  <title>28. Neptune · #83A6AC / #668A8E / #A2BEC4</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#83A6AC"/>
+<rect x="60" width="40" height="75" fill="#668A8E"/>
+<rect x="60" y="75" width="40" height="25" fill="#A2BEC4"/></g>
+  <text y="155" class="name">28. Neptune</text>
+  <text y="173" class="hex">#83A6AC · #668A8E · #A2BEC4</text>
+</g>
+<g transform="translate(768 905)">
+  <title>29. Sun · #929292 / #787878 / #515151</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#929292"/>
+<rect x="60" width="40" height="75" fill="#787878"/>
+<rect x="60" y="75" width="40" height="25" fill="#515151"/></g>
+  <text y="155" class="name">29. Sun</text>
+  <text y="173" class="hex">#929292 · #787878 · #515151</text>
+</g>
+<g transform="translate(954 905)">
+  <title>30. Mallard · #386555 / #93694F / #E79450</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#386555"/>
+<rect x="60" width="40" height="75" fill="#93694F"/>
+<rect x="60" y="75" width="40" height="25" fill="#E79450"/></g>
+  <text y="155" class="name">30. Mallard</text>
+  <text y="173" class="hex">#386555 · #93694F · #E79450</text>
+</g>
+<g transform="translate(24 1093)">
+  <title>31. Mandarin Duck · #A5664D / #3C323A / #D79861</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A5664D"/>
+<rect x="60" width="40" height="75" fill="#3C323A"/>
+<rect x="60" y="75" width="40" height="25" fill="#D79861"/></g>
+  <text y="155" class="name">31. Mandarin Duck</text>
+  <text y="173" class="hex">#A5664D · #3C323A · #D79861</text>
+</g>
+<g transform="translate(210 1093)">
+  <title>32. Eurasian Magpie · #212933 / #E5E1DB / #42666C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#212933"/>
+<rect x="60" width="40" height="75" fill="#E5E1DB"/>
+<rect x="60" y="75" width="40" height="25" fill="#42666C"/></g>
+  <text y="155" class="name">32. Eurasian Magpie</text>
+  <text y="173" class="hex">#212933 · #E5E1DB · #42666C</text>
+</g>
+<g transform="translate(396 1093)">
+  <title>33. European Bee-eater · #479A95 / #A96A39 / #DAC15C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#479A95"/>
+<rect x="60" width="40" height="75" fill="#A96A39"/>
+<rect x="60" y="75" width="40" height="25" fill="#DAC15C"/></g>
+  <text y="155" class="name">33. European Bee-eater</text>
+  <text y="173" class="hex">#479A95 · #A96A39 · #DAC15C</text>
+</g>
+<g transform="translate(582 1093)">
+  <title>34. European Roller · #52A4A5 / #8E5F4A / #416F82</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#52A4A5"/>
+<rect x="60" width="40" height="75" fill="#8E5F4A"/>
+<rect x="60" y="75" width="40" height="25" fill="#416F82"/></g>
+  <text y="155" class="name">34. European Roller</text>
+  <text y="173" class="hex">#52A4A5 · #8E5F4A · #416F82</text>
+</g>
+<g transform="translate(768 1093)">
+  <title>35. Lilac-breasted Roller · #B08495 / #5EA8AE / #705D44</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B08495"/>
+<rect x="60" width="40" height="75" fill="#5EA8AE"/>
+<rect x="60" y="75" width="40" height="25" fill="#705D44"/></g>
+  <text y="155" class="name">35. Lilac-breasted Roller</text>
+  <text y="173" class="hex">#B08495 · #5EA8AE · #705D44</text>
+</g>
+<g transform="translate(954 1093)">
+  <title>36. Indian Peafowl · #42567C / #72844B / #AD8A5D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#42567C"/>
+<rect x="60" width="40" height="75" fill="#72844B"/>
+<rect x="60" y="75" width="40" height="25" fill="#AD8A5D"/></g>
+  <text y="155" class="name">36. Indian Peafowl</text>
+  <text y="173" class="hex">#42567C · #72844B · #AD8A5D</text>
+</g>
+<g transform="translate(24 1281)">
+  <title>37. Atlantic Puffin · #323038 / #E5E8D3 / #C27641</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#323038"/>
+<rect x="60" width="40" height="75" fill="#E5E8D3"/>
+<rect x="60" y="75" width="40" height="25" fill="#C27641"/></g>
+  <text y="155" class="name">37. Atlantic Puffin</text>
+  <text y="173" class="hex">#323038 · #E5E8D3 · #C27641</text>
+</g>
+<g transform="translate(210 1281)">
+  <title>38. Flamingo · #E4937C / #E7B0A2 / #B66148</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E4937C"/>
+<rect x="60" width="40" height="75" fill="#E7B0A2"/>
+<rect x="60" y="75" width="40" height="25" fill="#B66148"/></g>
+  <text y="155" class="name">38. Flamingo</text>
+  <text y="173" class="hex">#E4937C · #E7B0A2 · #B66148</text>
+</g>
+<g transform="translate(396 1281)">
+  <title>39. Indigo Bunting · #396094 / #4E79A4 / #213F56</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#396094"/>
+<rect x="60" width="40" height="75" fill="#4E79A4"/>
+<rect x="60" y="75" width="40" height="25" fill="#213F56"/></g>
+  <text y="155" class="name">39. Indigo Bunting</text>
+  <text y="173" class="hex">#396094 · #4E79A4 · #213F56</text>
+</g>
+<g transform="translate(582 1281)">
+  <title>40. Eurasian Bullfinch · #C67977 / #929394 / #33313C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C67977"/>
+<rect x="60" width="40" height="75" fill="#929394"/>
+<rect x="60" y="75" width="40" height="25" fill="#33313C"/></g>
+  <text y="155" class="name">40. Eurasian Bullfinch</text>
+  <text y="173" class="hex">#C67977 · #929394 · #33313C</text>
+</g>
+<g transform="translate(768 1281)">
+  <title>41. European Robin · #9D8C7A / #C38B50 / #DBD5C8</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9D8C7A"/>
+<rect x="60" width="40" height="75" fill="#C38B50"/>
+<rect x="60" y="75" width="40" height="25" fill="#DBD5C8"/></g>
+  <text y="155" class="name">41. European Robin</text>
+  <text y="173" class="hex">#9D8C7A · #C38B50 · #DBD5C8</text>
+</g>
+<g transform="translate(954 1281)">
+  <title>42. Bohemian Waxwing · #A09385 / #564E4B / #CFC163</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A09385"/>
+<rect x="60" width="40" height="75" fill="#564E4B"/>
+<rect x="60" y="75" width="40" height="25" fill="#CFC163"/></g>
+  <text y="155" class="name">42. Bohemian Waxwing</text>
+  <text y="173" class="hex">#A09385 · #564E4B · #CFC163</text>
+</g>
+<g transform="translate(24 1469)">
+  <title>43. Hoopoe · #BE9273 / #3C3834 / #EBDCCD</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BE9273"/>
+<rect x="60" width="40" height="75" fill="#3C3834"/>
+<rect x="60" y="75" width="40" height="25" fill="#EBDCCD"/></g>
+  <text y="155" class="name">43. Hoopoe</text>
+  <text y="173" class="hex">#BE9273 · #3C3834 · #EBDCCD</text>
+</g>
+<g transform="translate(210 1469)">
+  <title>44. Secretarybird · #ADA69F / #56514E / #BE7569</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#ADA69F"/>
+<rect x="60" width="40" height="75" fill="#56514E"/>
+<rect x="60" y="75" width="40" height="25" fill="#BE7569"/></g>
+  <text y="155" class="name">44. Secretarybird</text>
+  <text y="173" class="hex">#ADA69F · #56514E · #BE7569</text>
+</g>
+<g transform="translate(396 1469)">
+  <title>45. Victoria Crowned Pigeon · #728997 / #745D5E / #B4C1C1</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#728997"/>
+<rect x="60" width="40" height="75" fill="#745D5E"/>
+<rect x="60" y="75" width="40" height="25" fill="#B4C1C1"/></g>
+  <text y="155" class="name">45. Victoria Crowned Pigeon</text>
+  <text y="173" class="hex">#728997 · #745D5E · #B4C1C1</text>
+</g>
+<g transform="translate(582 1469)">
+  <title>46. Nicobar Pigeon · #3F6057 / #58666E / #AF835B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3F6057"/>
+<rect x="60" width="40" height="75" fill="#58666E"/>
+<rect x="60" y="75" width="40" height="25" fill="#AF835B"/></g>
+  <text y="155" class="name">46. Nicobar Pigeon</text>
+  <text y="173" class="hex">#3F6057 · #58666E · #AF835B</text>
+</g>
+<g transform="translate(768 1469)">
+  <title>47. Emperor Penguin · #454447 / #E2DFCE / #DAC04E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#454447"/>
+<rect x="60" width="40" height="75" fill="#E2DFCE"/>
+<rect x="60" y="75" width="40" height="25" fill="#DAC04E"/></g>
+  <text y="155" class="name">47. Emperor Penguin</text>
+  <text y="173" class="hex">#454447 · #E2DFCE · #DAC04E</text>
+</g>
+<g transform="translate(954 1469)">
+  <title>48. White-throated Kingfisher · #5D979E / #7A4734 / #DFCCBB</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5D979E"/>
+<rect x="60" width="40" height="75" fill="#7A4734"/>
+<rect x="60" y="75" width="40" height="25" fill="#DFCCBB"/></g>
+  <text y="155" class="name">48. White-throated Kingfisher</text>
+  <text y="173" class="hex">#5D979E · #7A4734 · #DFCCBB</text>
+</g>
+<g transform="translate(24 1657)">
+  <title>49. French Angelfish · #43384A / #AF995C / #837D82</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#43384A"/>
+<rect x="60" width="40" height="75" fill="#AF995C"/>
+<rect x="60" y="75" width="40" height="25" fill="#837D82"/></g>
+  <text y="155" class="name">49. French Angelfish</text>
+  <text y="173" class="hex">#43384A · #AF995C · #837D82</text>
+</g>
+<g transform="translate(210 1657)">
+  <title>50. Copperband Butterflyfish · #D7DCC5 / #C49050 / #46392B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D7DCC5"/>
+<rect x="60" width="40" height="75" fill="#C49050"/>
+<rect x="60" y="75" width="40" height="25" fill="#46392B"/></g>
+  <text y="155" class="name">50. Copperband Butterflyfish</text>
+  <text y="173" class="hex">#D7DCC5 · #C49050 · #46392B</text>
+</g>
+<g transform="translate(396 1657)">
+  <title>51. Picasso Triggerfish · #B6AA8A / #3E3D3C / #618793</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B6AA8A"/>
+<rect x="60" width="40" height="75" fill="#3E3D3C"/>
+<rect x="60" y="75" width="40" height="25" fill="#618793"/></g>
+  <text y="155" class="name">51. Picasso Triggerfish</text>
+  <text y="173" class="hex">#B6AA8A · #3E3D3C · #618793</text>
+</g>
+<g transform="translate(582 1657)">
+  <title>52. Leafy Seadragon · #BB9956 / #7A7449 / #B67A46</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BB9956"/>
+<rect x="60" width="40" height="75" fill="#7A7449"/>
+<rect x="60" y="75" width="40" height="25" fill="#B67A46"/></g>
+  <text y="155" class="name">52. Leafy Seadragon</text>
+  <text y="173" class="hex">#BB9956 · #7A7449 · #B67A46</text>
+</g>
+<g transform="translate(768 1657)">
+  <title>53. Red Lionfish · #925F54 / #C3A99F / #533D35</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#925F54"/>
+<rect x="60" width="40" height="75" fill="#C3A99F"/>
+<rect x="60" y="75" width="40" height="25" fill="#533D35"/></g>
+  <text y="155" class="name">53. Red Lionfish</text>
+  <text y="173" class="hex">#925F54 · #C3A99F · #533D35</text>
+</g>
+<g transform="translate(954 1657)">
+  <title>54. Brook Trout · #6D6457 / #AE9163 / #A0503E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#6D6457"/>
+<rect x="60" width="40" height="75" fill="#AE9163"/>
+<rect x="60" y="75" width="40" height="25" fill="#A0503E"/></g>
+  <text y="155" class="name">54. Brook Trout</text>
+  <text y="173" class="hex">#6D6457 · #AE9163 · #A0503E</text>
+</g>
+<g transform="translate(24 1845)">
+  <title>55. Atlantic Mackerel · #526560 / #A5B3A9 / #313D41</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#526560"/>
+<rect x="60" width="40" height="75" fill="#A5B3A9"/>
+<rect x="60" y="75" width="40" height="25" fill="#313D41"/></g>
+  <text y="155" class="name">55. Atlantic Mackerel</text>
+  <text y="173" class="hex">#526560 · #A5B3A9 · #313D41</text>
+</g>
+<g transform="translate(210 1845)">
+  <title>56. Flying Gurnard · #6B817C / #426A99 / #CCB593</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#6B817C"/>
+<rect x="60" width="40" height="75" fill="#426A99"/>
+<rect x="60" y="75" width="40" height="25" fill="#CCB593"/></g>
+  <text y="155" class="name">56. Flying Gurnard</text>
+  <text y="173" class="hex">#6B817C · #426A99 · #CCB593</text>
+</g>
+<g transform="translate(396 1845)">
+  <title>57. Napoleon Wrasse · #4C8787 / #679794 / #355365</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4C8787"/>
+<rect x="60" width="40" height="75" fill="#679794"/>
+<rect x="60" y="75" width="40" height="25" fill="#355365"/></g>
+  <text y="155" class="name">57. Napoleon Wrasse</text>
+  <text y="173" class="hex">#4C8787 · #679794 · #355365</text>
+</g>
+<g transform="translate(582 1845)">
+  <title>58. Peacock Mantis Shrimp · #4C786A / #996D4B / #468294</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4C786A"/>
+<rect x="60" width="40" height="75" fill="#996D4B"/>
+<rect x="60" y="75" width="40" height="25" fill="#468294"/></g>
+  <text y="155" class="name">58. Peacock Mantis Shrimp</text>
+  <text y="173" class="hex">#4C786A · #996D4B · #468294</text>
+</g>
+<g transform="translate(768 1845)">
+  <title>59. Sea Bunny · #DADCD4 / #6E6758 / #BCAC80</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DADCD4"/>
+<rect x="60" width="40" height="75" fill="#6E6758"/>
+<rect x="60" y="75" width="40" height="25" fill="#BCAC80"/></g>
+  <text y="155" class="name">59. Sea Bunny</text>
+  <text y="173" class="hex">#DADCD4 · #6E6758 · #BCAC80</text>
+</g>
+<g transform="translate(954 1845)">
+  <title>60. Blue Dragon · #5077A0 / #A6BBBF / #2D3E5F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5077A0"/>
+<rect x="60" width="40" height="75" fill="#A6BBBF"/>
+<rect x="60" y="75" width="40" height="25" fill="#2D3E5F"/></g>
+  <text y="155" class="name">60. Blue Dragon</text>
+  <text y="173" class="hex">#5077A0 · #A6BBBF · #2D3E5F</text>
+</g>
+<g transform="translate(24 2033)">
+  <title>61. Purple Sea Urchin · #715279 / #97809D / #463248</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#715279"/>
+<rect x="60" width="40" height="75" fill="#97809D"/>
+<rect x="60" y="75" width="40" height="25" fill="#463248"/></g>
+  <text y="155" class="name">61. Purple Sea Urchin</text>
+  <text y="173" class="hex">#715279 · #97809D · #463248</text>
+</g>
+<g transform="translate(210 2033)">
+  <title>62. Chocolate Chip Sea Star · #C18E7F / #563F40 / #AC6E56</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C18E7F"/>
+<rect x="60" width="40" height="75" fill="#563F40"/>
+<rect x="60" y="75" width="40" height="25" fill="#AC6E56"/></g>
+  <text y="155" class="name">62. Chocolate Chip Sea Star</text>
+  <text y="173" class="hex">#C18E7F · #563F40 · #AC6E56</text>
+</g>
+<g transform="translate(396 2033)">
+  <title>63. Moon Jelly · #C1C0CE / #8B88A1 / #DBD8DF</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C1C0CE"/>
+<rect x="60" width="40" height="75" fill="#8B88A1"/>
+<rect x="60" y="75" width="40" height="25" fill="#DBD8DF"/></g>
+  <text y="155" class="name">63. Moon Jelly</text>
+  <text y="173" class="hex">#C1C0CE · #8B88A1 · #DBD8DF</text>
+</g>
+<g transform="translate(582 2033)">
+  <title>64. Panther Chameleon · #4F9880 / #AC6A3E / #78A062</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4F9880"/>
+<rect x="60" width="40" height="75" fill="#AC6A3E"/>
+<rect x="60" y="75" width="40" height="25" fill="#78A062"/></g>
+  <text y="155" class="name">64. Panther Chameleon</text>
+  <text y="173" class="hex">#4F9880 · #AC6A3E · #78A062</text>
+</g>
+<g transform="translate(768 2033)">
+  <title>65. Jackson’s Chameleon · #6E8F4A / #A4A668 / #6B6239</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#6E8F4A"/>
+<rect x="60" width="40" height="75" fill="#A4A668"/>
+<rect x="60" y="75" width="40" height="25" fill="#6B6239"/></g>
+  <text y="155" class="name">65. Jackson’s Chameleon</text>
+  <text y="173" class="hex">#6E8F4A · #A4A668 · #6B6239</text>
+</g>
+<g transform="translate(954 2033)">
+  <title>66. Leopard Gecko · #CFAC75 / #755C51 / #EECDB3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CFAC75"/>
+<rect x="60" width="40" height="75" fill="#755C51"/>
+<rect x="60" y="75" width="40" height="25" fill="#EECDB3"/></g>
+  <text y="155" class="name">66. Leopard Gecko</text>
+  <text y="173" class="hex">#CFAC75 · #755C51 · #EECDB3</text>
+</g>
+<g transform="translate(24 2221)">
+  <title>67. Green Sea Turtle · #727A61 / #AD9774 / #585C58</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#727A61"/>
+<rect x="60" width="40" height="75" fill="#AD9774"/>
+<rect x="60" y="75" width="40" height="25" fill="#585C58"/></g>
+  <text y="155" class="name">67. Green Sea Turtle</text>
+  <text y="173" class="hex">#727A61 · #AD9774 · #585C58</text>
+</g>
+<g transform="translate(210 2221)">
+  <title>68. Calico Cat · #E0DDC7 / #A36F40 / #3D393B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E0DDC7"/>
+<rect x="60" width="40" height="75" fill="#A36F40"/>
+<rect x="60" y="75" width="40" height="25" fill="#3D393B"/></g>
+  <text y="155" class="name">68. Calico Cat</text>
+  <text y="173" class="hex">#E0DDC7 · #A36F40 · #3D393B</text>
+</g>
+<g transform="translate(396 2221)">
+  <title>69. Red Fox · #AC6C49 / #463D36 / #E1CEC6</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AC6C49"/>
+<rect x="60" width="40" height="75" fill="#463D36"/>
+<rect x="60" y="75" width="40" height="25" fill="#E1CEC6"/></g>
+  <text y="155" class="name">69. Red Fox</text>
+  <text y="173" class="hex">#AC6C49 · #463D36 · #E1CEC6</text>
+</g>
+<g transform="translate(582 2221)">
+  <title>70. Arctic Fox · #CDD4E4 / #9DA3B0 / #676A7C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CDD4E4"/>
+<rect x="60" width="40" height="75" fill="#9DA3B0"/>
+<rect x="60" y="75" width="40" height="25" fill="#676A7C"/></g>
+  <text y="155" class="name">70. Arctic Fox</text>
+  <text y="173" class="hex">#CDD4E4 · #9DA3B0 · #676A7C</text>
+</g>
+<g transform="translate(768 2221)">
+  <title>71. Red Panda · #A25B47 / #614B36 / #E0CEBC</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A25B47"/>
+<rect x="60" width="40" height="75" fill="#614B36"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0CEBC"/></g>
+  <text y="155" class="name">71. Red Panda</text>
+  <text y="173" class="hex">#A25B47 · #614B36 · #E0CEBC</text>
+</g>
+<g transform="translate(954 2221)">
+  <title>72. Snow Leopard · #C0B7A7 / #71675E / #42403F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C0B7A7"/>
+<rect x="60" width="40" height="75" fill="#71675E"/>
+<rect x="60" y="75" width="40" height="25" fill="#42403F"/></g>
+  <text y="155" class="name">72. Snow Leopard</text>
+  <text y="173" class="hex">#C0B7A7 · #71675E · #42403F</text>
+</g>
+<g transform="translate(24 2409)">
+  <title>73. Okapi · #62453E / #D6C9BA / #393336</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#62453E"/>
+<rect x="60" width="40" height="75" fill="#D6C9BA"/>
+<rect x="60" y="75" width="40" height="25" fill="#393336"/></g>
+  <text y="155" class="name">73. Okapi</text>
+  <text y="173" class="hex">#62453E · #D6C9BA · #393336</text>
+</g>
+<g transform="translate(210 2409)">
+  <title>74. Plains Zebra · #DED9CD / #352F37 / #8C8581</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DED9CD"/>
+<rect x="60" width="40" height="75" fill="#352F37"/>
+<rect x="60" y="75" width="40" height="25" fill="#8C8581"/></g>
+  <text y="155" class="name">74. Plains Zebra</text>
+  <text y="173" class="hex">#DED9CD · #352F37 · #8C8581</text>
+</g>
+<g transform="translate(396 2409)">
+  <title>75. Mandrill · #655A42 / #698698 / #BC5771</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#655A42"/>
+<rect x="60" width="40" height="75" fill="#698698"/>
+<rect x="60" y="75" width="40" height="25" fill="#BC5771"/></g>
+  <text y="155" class="name">75. Mandrill</text>
+  <text y="173" class="hex">#655A42 · #698698 · #BC5771</text>
+</g>
+<g transform="translate(582 2409)">
+  <title>76. Golden Snub-nosed Monkey · #BE8A50 / #8D95AC / #D2B495</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BE8A50"/>
+<rect x="60" width="40" height="75" fill="#8D95AC"/>
+<rect x="60" y="75" width="40" height="25" fill="#D2B495"/></g>
+  <text y="155" class="name">76. Golden Snub-nosed Monkey</text>
+  <text y="173" class="hex">#BE8A50 · #8D95AC · #D2B495</text>
+</g>
+<g transform="translate(768 2409)">
+  <title>77. Ring-tailed Lemur · #99918E / #434145 / #DBDBDB</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#99918E"/>
+<rect x="60" width="40" height="75" fill="#434145"/>
+<rect x="60" y="75" width="40" height="25" fill="#DBDBDB"/></g>
+  <text y="155" class="name">77. Ring-tailed Lemur</text>
+  <text y="173" class="hex">#99918E · #434145 · #DBDBDB</text>
+</g>
+<g transform="translate(954 2409)">
+  <title>78. Indian Giant Squirrel · #67413E / #966240 / #DBB684</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#67413E"/>
+<rect x="60" width="40" height="75" fill="#966240"/>
+<rect x="60" y="75" width="40" height="25" fill="#DBB684"/></g>
+  <text y="155" class="name">78. Indian Giant Squirrel</text>
+  <text y="173" class="hex">#67413E · #966240 · #DBB684</text>
+</g>
+<g transform="translate(24 2597)">
+  <title>79. Dall’s Porpoise · #30404E / #D0D3DD / #788690</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#30404E"/>
+<rect x="60" width="40" height="75" fill="#D0D3DD"/>
+<rect x="60" y="75" width="40" height="25" fill="#788690"/></g>
+  <text y="155" class="name">79. Dall’s Porpoise</text>
+  <text y="173" class="hex">#30404E · #D0D3DD · #788690</text>
+</g>
+<g transform="translate(210 2597)">
+  <title>80. Luna Moth · #B0C58B / #DAE1AB / #745867</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B0C58B"/>
+<rect x="60" width="40" height="75" fill="#DAE1AB"/>
+<rect x="60" y="75" width="40" height="25" fill="#745867"/></g>
+  <text y="155" class="name">80. Luna Moth</text>
+  <text y="173" class="hex">#B0C58B · #DAE1AB · #745867</text>
+</g>
+<g transform="translate(396 2597)">
+  <title>81. Spanish Moon Moth · #A9AE81 / #704E43 / #CDA880</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A9AE81"/>
+<rect x="60" width="40" height="75" fill="#704E43"/>
+<rect x="60" y="75" width="40" height="25" fill="#CDA880"/></g>
+  <text y="155" class="name">81. Spanish Moon Moth</text>
+  <text y="173" class="hex">#A9AE81 · #704E43 · #CDA880</text>
+</g>
+<g transform="translate(582 2597)">
+  <title>82. Orchid Bee · #38886F / #33695E / #8AA44C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#38886F"/>
+<rect x="60" width="40" height="75" fill="#33695E"/>
+<rect x="60" y="75" width="40" height="25" fill="#8AA44C"/></g>
+  <text y="155" class="name">82. Orchid Bee</text>
+  <text y="173" class="hex">#38886F · #33695E · #8AA44C</text>
+</g>
+<g transform="translate(768 2597)">
+  <title>83. Golden Tortoise Beetle · #C09D52 / #A17739 / #D4C569</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C09D52"/>
+<rect x="60" width="40" height="75" fill="#A17739"/>
+<rect x="60" y="75" width="40" height="25" fill="#D4C569"/></g>
+  <text y="155" class="name">83. Golden Tortoise Beetle</text>
+  <text y="173" class="hex">#C09D52 · #A17739 · #D4C569</text>
+</g>
+<g transform="translate(954 2597)">
+  <title>84. Domino Cockroach · #303634 / #E3DAC3 / #767368</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#303634"/>
+<rect x="60" width="40" height="75" fill="#E3DAC3"/>
+<rect x="60" y="75" width="40" height="25" fill="#767368"/></g>
+  <text y="155" class="name">84. Domino Cockroach</text>
+  <text y="173" class="hex">#303634 · #E3DAC3 · #767368</text>
+</g>
+<g transform="translate(24 2785)">
+  <title>85. Question-mark Cockroach · #423C35 / #D2A26B / #E9CCA8</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#423C35"/>
+<rect x="60" width="40" height="75" fill="#D2A26B"/>
+<rect x="60" y="75" width="40" height="25" fill="#E9CCA8"/></g>
+  <text y="155" class="name">85. Question-mark Cockroach</text>
+  <text y="173" class="hex">#423C35 · #D2A26B · #E9CCA8</text>
+</g>
+<g transform="translate(210 2785)">
+  <title>86. Orchid Mantis · #E5DDD0 / #BA7E96 / #96785F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E5DDD0"/>
+<rect x="60" width="40" height="75" fill="#BA7E96"/>
+<rect x="60" y="75" width="40" height="25" fill="#96785F"/></g>
+  <text y="155" class="name">86. Orchid Mantis</text>
+  <text y="173" class="hex">#E5DDD0 · #BA7E96 · #96785F</text>
+</g>
+<g transform="translate(396 2785)">
+  <title>87. Jade Vine · #539A8C / #86B8B2 / #484448</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#539A8C"/>
+<rect x="60" width="40" height="75" fill="#86B8B2"/>
+<rect x="60" y="75" width="40" height="25" fill="#484448"/></g>
+  <text y="155" class="name">87. Jade Vine</text>
+  <text y="173" class="hex">#539A8C · #86B8B2 · #484448</text>
+</g>
+<g transform="translate(582 2785)">
+  <title>88. Blue Passionflower · #DEE0D9 / #364B87 / #919A53</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DEE0D9"/>
+<rect x="60" width="40" height="75" fill="#364B87"/>
+<rect x="60" y="75" width="40" height="25" fill="#919A53"/></g>
+  <text y="155" class="name">88. Blue Passionflower</text>
+  <text y="173" class="hex">#DEE0D9 · #364B87 · #919A53</text>
+</g>
+<g transform="translate(768 2785)">
+  <title>89. Sapphire Tower · #4D897B / #2E4E51 / #BBA355</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4D897B"/>
+<rect x="60" width="40" height="75" fill="#2E4E51"/>
+<rect x="60" y="75" width="40" height="25" fill="#BBA355"/></g>
+  <text y="155" class="name">89. Sapphire Tower</text>
+  <text y="173" class="hex">#4D897B · #2E4E51 · #BBA355</text>
+</g>
+<g transform="translate(954 2785)">
+  <title>90. Black Bat Flower · #4F394A / #2B2327 / #8A8253</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4F394A"/>
+<rect x="60" width="40" height="75" fill="#2B2327"/>
+<rect x="60" y="75" width="40" height="25" fill="#8A8253"/></g>
+  <text y="155" class="name">90. Black Bat Flower</text>
+  <text y="173" class="hex">#4F394A · #2B2327 · #8A8253</text>
+</g>
+<g transform="translate(24 2973)">
+  <title>91. White Bat Flower · #D3D4C4 / #745367 / #4A523F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D3D4C4"/>
+<rect x="60" width="40" height="75" fill="#745367"/>
+<rect x="60" y="75" width="40" height="25" fill="#4A523F"/></g>
+  <text y="155" class="name">91. White Bat Flower</text>
+  <text y="173" class="hex">#D3D4C4 · #745367 · #4A523F</text>
+</g>
+<g transform="translate(210 2973)">
+  <title>92. Surprise Lily · #C597AC / #DEC0C5 / #9C885E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C597AC"/>
+<rect x="60" width="40" height="75" fill="#DEC0C5"/>
+<rect x="60" y="75" width="40" height="25" fill="#9C885E"/></g>
+  <text y="155" class="name">92. Surprise Lily</text>
+  <text y="173" class="hex">#C597AC · #DEC0C5 · #9C885E</text>
+</g>
+<g transform="translate(396 2973)">
+  <title>93. White Bird of Paradise · #D3D6CB / #4B525B / #757A57</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D3D6CB"/>
+<rect x="60" width="40" height="75" fill="#4B525B"/>
+<rect x="60" y="75" width="40" height="25" fill="#757A57"/></g>
+  <text y="155" class="name">93. White Bird of Paradise</text>
+  <text y="173" class="hex">#D3D6CB · #4B525B · #757A57</text>
+</g>
+<g transform="translate(582 2973)">
+  <title>94. Torch Ginger · #D7877E / #A05852 / #E8BAA9</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D7877E"/>
+<rect x="60" width="40" height="75" fill="#A05852"/>
+<rect x="60" y="75" width="40" height="25" fill="#E8BAA9"/></g>
+  <text y="155" class="name">94. Torch Ginger</text>
+  <text y="173" class="hex">#D7877E · #A05852 · #E8BAA9</text>
+</g>
+<g transform="translate(768 2973)">
+  <title>95. Blue Butterfly Bush · #7199BD / #505A9B / #C3C7D6</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7199BD"/>
+<rect x="60" width="40" height="75" fill="#505A9B"/>
+<rect x="60" y="75" width="40" height="25" fill="#C3C7D6"/></g>
+  <text y="155" class="name">95. Blue Butterfly Bush</text>
+  <text y="173" class="hex">#7199BD · #505A9B · #C3C7D6</text>
+</g>
+<g transform="translate(954 2973)">
+  <title>96. Dutchman’s Pipe · #745151 / #B98877 / #E7CB7C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#745151"/>
+<rect x="60" width="40" height="75" fill="#B98877"/>
+<rect x="60" y="75" width="40" height="25" fill="#E7CB7C"/></g>
+  <text y="155" class="name">96. Dutchman’s Pipe</text>
+  <text y="173" class="hex">#745151 · #B98877 · #E7CB7C</text>
+</g>
+<g transform="translate(24 3161)">
+  <title>97. Carrion Flower · #D6C993 / #926B67 / #715148</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D6C993"/>
+<rect x="60" width="40" height="75" fill="#926B67"/>
+<rect x="60" y="75" width="40" height="25" fill="#715148"/></g>
+  <text y="155" class="name">97. Carrion Flower</text>
+  <text y="173" class="hex">#D6C993 · #926B67 · #715148</text>
+</g>
+<g transform="translate(210 3161)">
+  <title>98. Starfish Flower · #B8A868 / #6B3D34 / #D0BC89</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B8A868"/>
+<rect x="60" width="40" height="75" fill="#6B3D34"/>
+<rect x="60" y="75" width="40" height="25" fill="#D0BC89"/></g>
+  <text y="155" class="name">98. Starfish Flower</text>
+  <text y="173" class="hex">#B8A868 · #6B3D34 · #D0BC89</text>
+</g>
+<g transform="translate(396 3161)">
+  <title>99. Persian Carpet Flower · #8F5154 / #BD9C5E / #D5C896</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8F5154"/>
+<rect x="60" width="40" height="75" fill="#BD9C5E"/>
+<rect x="60" y="75" width="40" height="25" fill="#D5C896"/></g>
+  <text y="155" class="name">99. Persian Carpet Flower</text>
+  <text y="173" class="hex">#8F5154 · #BD9C5E · #D5C896</text>
+</g>
+<g transform="translate(582 3161)">
+  <title>100. Desert Rose · #D08E9A / #E5BFC4 / #AD424F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D08E9A"/>
+<rect x="60" width="40" height="75" fill="#E5BFC4"/>
+<rect x="60" y="75" width="40" height="25" fill="#AD424F"/></g>
+  <text y="155" class="name">100. Desert Rose</text>
+  <text y="173" class="hex">#D08E9A · #E5BFC4 · #AD424F</text>
+</g>
+<g transform="translate(768 3161)">
+  <title>101. Jacaranda · #8875B5 / #9F96CC / #5E5883</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8875B5"/>
+<rect x="60" width="40" height="75" fill="#9F96CC"/>
+<rect x="60" y="75" width="40" height="25" fill="#5E5883"/></g>
+  <text y="155" class="name">101. Jacaranda</text>
+  <text y="173" class="hex">#8875B5 · #9F96CC · #5E5883</text>
+</g>
+<g transform="translate(954 3161)">
+  <title>102. Wisteria · #9B84BD / #CAC5DC / #6C7F4B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9B84BD"/>
+<rect x="60" width="40" height="75" fill="#CAC5DC"/>
+<rect x="60" y="75" width="40" height="25" fill="#6C7F4B"/></g>
+  <text y="155" class="name">102. Wisteria</text>
+  <text y="173" class="hex">#9B84BD · #CAC5DC · #6C7F4B</text>
+</g>
+<g transform="translate(24 3349)">
+  <title>103. Blue Wild Indigo · #6C66A5 / #9E8FBA / #596B4E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#6C66A5"/>
+<rect x="60" width="40" height="75" fill="#9E8FBA"/>
+<rect x="60" y="75" width="40" height="25" fill="#596B4E"/></g>
+  <text y="155" class="name">103. Blue Wild Indigo</text>
+  <text y="173" class="hex">#6C66A5 · #9E8FBA · #596B4E</text>
+</g>
+<g transform="translate(210 3349)">
+  <title>104. Grape Hyacinth · #5661A4 / #999CCB / #DEDBD3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5661A4"/>
+<rect x="60" width="40" height="75" fill="#999CCB"/>
+<rect x="60" y="75" width="40" height="25" fill="#DEDBD3"/></g>
+  <text y="155" class="name">104. Grape Hyacinth</text>
+  <text y="173" class="hex">#5661A4 · #999CCB · #DEDBD3</text>
+</g>
+<g transform="translate(396 3349)">
+  <title>105. Snowdrop · #E2E4D7 / #899663 / #606D52</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E2E4D7"/>
+<rect x="60" width="40" height="75" fill="#899663"/>
+<rect x="60" y="75" width="40" height="25" fill="#606D52"/></g>
+  <text y="155" class="name">105. Snowdrop</text>
+  <text y="173" class="hex">#E2E4D7 · #899663 · #606D52</text>
+</g>
+<g transform="translate(582 3349)">
+  <title>106. Summer Snowflake · #DBE1D3 / #6F915A / #BDC797</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DBE1D3"/>
+<rect x="60" width="40" height="75" fill="#6F915A"/>
+<rect x="60" y="75" width="40" height="25" fill="#BDC797"/></g>
+  <text y="155" class="name">106. Summer Snowflake</text>
+  <text y="173" class="hex">#DBE1D3 · #6F915A · #BDC797</text>
+</g>
+<g transform="translate(768 3349)">
+  <title>107. Snake’s Head Fritillary · #936D8A / #B2B2AF / #6B5065</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#936D8A"/>
+<rect x="60" width="40" height="75" fill="#B2B2AF"/>
+<rect x="60" y="75" width="40" height="25" fill="#6B5065"/></g>
+  <text y="155" class="name">107. Snake’s Head Fritillary</text>
+  <text y="173" class="hex">#936D8A · #B2B2AF · #6B5065</text>
+</g>
+<g transform="translate(954 3349)">
+  <title>108. Persian Lily · #584C62 / #7F7B81 / #727F65</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#584C62"/>
+<rect x="60" width="40" height="75" fill="#7F7B81"/>
+<rect x="60" y="75" width="40" height="25" fill="#727F65"/></g>
+  <text y="155" class="name">108. Persian Lily</text>
+  <text y="173" class="hex">#584C62 · #7F7B81 · #727F65</text>
+</g>
+<g transform="translate(24 3537)">
+  <title>109. Martagon Lily · #B87391 / #894D61 / #D996A7</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B87391"/>
+<rect x="60" width="40" height="75" fill="#894D61"/>
+<rect x="60" y="75" width="40" height="25" fill="#D996A7"/></g>
+  <text y="155" class="name">109. Martagon Lily</text>
+  <text y="173" class="hex">#B87391 · #894D61 · #D996A7</text>
+</g>
+<g transform="translate(210 3537)">
+  <title>110. Arum Lily · #C2C78E / #888560 / #5A5146</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C2C78E"/>
+<rect x="60" width="40" height="75" fill="#888560"/>
+<rect x="60" y="75" width="40" height="25" fill="#5A5146"/></g>
+  <text y="155" class="name">110. Arum Lily</text>
+  <text y="173" class="hex">#C2C78E · #888560 · #5A5146</text>
+</g>
+<g transform="translate(396 3537)">
+  <title>111. Jack-in-the-pulpit · #858E5F / #564A53 / #B4A97E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#858E5F"/>
+<rect x="60" width="40" height="75" fill="#564A53"/>
+<rect x="60" y="75" width="40" height="25" fill="#B4A97E"/></g>
+  <text y="155" class="name">111. Jack-in-the-pulpit</text>
+  <text y="173" class="hex">#858E5F · #564A53 · #B4A97E</text>
+</g>
+<g transform="translate(582 3537)">
+  <title>112. Christmas Rose · #DFE2C7 / #A7A46A / #AF9A8C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DFE2C7"/>
+<rect x="60" width="40" height="75" fill="#A7A46A"/>
+<rect x="60" y="75" width="40" height="25" fill="#AF9A8C"/></g>
+  <text y="155" class="name">112. Christmas Rose</text>
+  <text y="173" class="hex">#DFE2C7 · #A7A46A · #AF9A8C</text>
+</g>
+<g transform="translate(768 3537)">
+  <title>113. Crocus · #9071AD / #D1ACD2 / #EE8D4E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9071AD"/>
+<rect x="60" width="40" height="75" fill="#D1ACD2"/>
+<rect x="60" y="75" width="40" height="25" fill="#EE8D4E"/></g>
+  <text y="155" class="name">113. Crocus</text>
+  <text y="173" class="hex">#9071AD · #D1ACD2 · #EE8D4E</text>
+</g>
+<g transform="translate(954 3537)">
+  <title>114. Saffron Crocus · #958CBC / #B4B3CC / #AC6A4E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#958CBC"/>
+<rect x="60" width="40" height="75" fill="#B4B3CC"/>
+<rect x="60" y="75" width="40" height="25" fill="#AC6A4E"/></g>
+  <text y="155" class="name">114. Saffron Crocus</text>
+  <text y="173" class="hex">#958CBC · #B4B3CC · #AC6A4E</text>
+</g>
+<g transform="translate(24 3725)">
+  <title>115. Iris · #786DA8 / #9F86BA / #E0BB3E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#786DA8"/>
+<rect x="60" width="40" height="75" fill="#9F86BA"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0BB3E"/></g>
+  <text y="155" class="name">115. Iris</text>
+  <text y="173" class="hex">#786DA8 · #9F86BA · #E0BB3E</text>
+</g>
+<g transform="translate(210 3725)">
+  <title>116. Dutch Iris · #606F97 / #7E8BB3 / #DEC23D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#606F97"/>
+<rect x="60" width="40" height="75" fill="#7E8BB3"/>
+<rect x="60" y="75" width="40" height="25" fill="#DEC23D"/></g>
+  <text y="155" class="name">116. Dutch Iris</text>
+  <text y="173" class="hex">#606F97 · #7E8BB3 · #DEC23D</text>
+</g>
+<g transform="translate(396 3725)">
+  <title>117. Lady Tulip · #DCD9CD / #A75E68 / #8B8161</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DCD9CD"/>
+<rect x="60" width="40" height="75" fill="#A75E68"/>
+<rect x="60" y="75" width="40" height="25" fill="#8B8161"/></g>
+  <text y="155" class="name">117. Lady Tulip</text>
+  <text y="173" class="hex">#DCD9CD · #A75E68 · #8B8161</text>
+</g>
+<g transform="translate(582 3725)">
+  <title>118. Dog Rose · #D5A2AF / #E7D1D3 / #D7A948</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D5A2AF"/>
+<rect x="60" width="40" height="75" fill="#E7D1D3"/>
+<rect x="60" y="75" width="40" height="25" fill="#D7A948"/></g>
+  <text y="155" class="name">118. Dog Rose</text>
+  <text y="173" class="hex">#D5A2AF · #E7D1D3 · #D7A948</text>
+</g>
+<g transform="translate(768 3725)">
+  <title>119. Blue Hydrangea · #7C8FBC / #A4A9C8 / #768B55</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7C8FBC"/>
+<rect x="60" width="40" height="75" fill="#A4A9C8"/>
+<rect x="60" y="75" width="40" height="25" fill="#768B55"/></g>
+  <text y="155" class="name">119. Blue Hydrangea</text>
+  <text y="173" class="hex">#7C8FBC · #A4A9C8 · #768B55</text>
+</g>
+<g transform="translate(954 3725)">
+  <title>120. Oakleaf Hydrangea · #D7E0C7 / #BDC6A3 / #7C9065</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D7E0C7"/>
+<rect x="60" width="40" height="75" fill="#BDC6A3"/>
+<rect x="60" y="75" width="40" height="25" fill="#7C9065"/></g>
+  <text y="155" class="name">120. Oakleaf Hydrangea</text>
+  <text y="173" class="hex">#D7E0C7 · #BDC6A3 · #7C9065</text>
+</g>
+<g transform="translate(24 3913)">
+  <title>121. Rose of Sharon · #B9A5BB / #DECBDE / #9E5762</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B9A5BB"/>
+<rect x="60" width="40" height="75" fill="#DECBDE"/>
+<rect x="60" y="75" width="40" height="25" fill="#9E5762"/></g>
+  <text y="155" class="name">121. Rose of Sharon</text>
+  <text y="173" class="hex">#B9A5BB · #DECBDE · #9E5762</text>
+</g>
+<g transform="translate(210 3913)">
+  <title>122. Sea Holly · #798CA9 / #ABBCC4 / #5C745D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#798CA9"/>
+<rect x="60" width="40" height="75" fill="#ABBCC4"/>
+<rect x="60" y="75" width="40" height="25" fill="#5C745D"/></g>
+  <text y="155" class="name">122. Sea Holly</text>
+  <text y="173" class="hex">#798CA9 · #ABBCC4 · #5C745D</text>
+</g>
+<g transform="translate(396 3913)">
+  <title>123. Borage · #5D74B5 / #9FACC2 / #3C435F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5D74B5"/>
+<rect x="60" width="40" height="75" fill="#9FACC2"/>
+<rect x="60" y="75" width="40" height="25" fill="#3C435F"/></g>
+  <text y="155" class="name">123. Borage</text>
+  <text y="173" class="hex">#5D74B5 · #9FACC2 · #3C435F</text>
+</g>
+<g transform="translate(582 3913)">
+  <title>124. Forget-me-not · #86A7D0 / #CFDBE6 / #DBBA50</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#86A7D0"/>
+<rect x="60" width="40" height="75" fill="#CFDBE6"/>
+<rect x="60" y="75" width="40" height="25" fill="#DBBA50"/></g>
+  <text y="155" class="name">124. Forget-me-not</text>
+  <text y="173" class="hex">#86A7D0 · #CFDBE6 · #DBBA50</text>
+</g>
+<g transform="translate(768 3913)">
+  <title>125. Virginia Bluebells · #8497C5 / #BB8CB5 / #5A8061</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8497C5"/>
+<rect x="60" width="40" height="75" fill="#BB8CB5"/>
+<rect x="60" y="75" width="40" height="25" fill="#5A8061"/></g>
+  <text y="155" class="name">125. Virginia Bluebells</text>
+  <text y="173" class="hex">#8497C5 · #BB8CB5 · #5A8061</text>
+</g>
+<g transform="translate(954 3913)">
+  <title>126. Love-in-a-mist · #91B3CA / #637C56 / #D9E3E9</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#91B3CA"/>
+<rect x="60" width="40" height="75" fill="#637C56"/>
+<rect x="60" y="75" width="40" height="25" fill="#D9E3E9"/></g>
+  <text y="155" class="name">126. Love-in-a-mist</text>
+  <text y="173" class="hex">#91B3CA · #637C56 · #D9E3E9</text>
+</g>
+<g transform="translate(24 4101)">
+  <title>127. Columbine · #8673A9 / #AB9EC9 / #CBB474</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8673A9"/>
+<rect x="60" width="40" height="75" fill="#AB9EC9"/>
+<rect x="60" y="75" width="40" height="25" fill="#CBB474"/></g>
+  <text y="155" class="name">127. Columbine</text>
+  <text y="173" class="hex">#8673A9 · #AB9EC9 · #CBB474</text>
+</g>
+<g transform="translate(210 4101)">
+  <title>128. Purple Coneflower · #C680A2 / #B07949 / #6C4A3F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C680A2"/>
+<rect x="60" width="40" height="75" fill="#B07949"/>
+<rect x="60" y="75" width="40" height="25" fill="#6C4A3F"/></g>
+  <text y="155" class="name">128. Purple Coneflower</text>
+  <text y="173" class="hex">#C680A2 · #B07949 · #6C4A3F</text>
+</g>
+<g transform="translate(396 4101)">
+  <title>129. Blue Water Lily · #9191BC / #C7C2D7 / #B9AD5A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9191BC"/>
+<rect x="60" width="40" height="75" fill="#C7C2D7"/>
+<rect x="60" y="75" width="40" height="25" fill="#B9AD5A"/></g>
+  <text y="155" class="name">129. Blue Water Lily</text>
+  <text y="173" class="hex">#9191BC · #C7C2D7 · #B9AD5A</text>
+</g>
+<g transform="translate(582 4101)">
+  <title>130. Pink Lady’s Slipper · #C68595 / #857165 / #B4A57E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C68595"/>
+<rect x="60" width="40" height="75" fill="#857165"/>
+<rect x="60" y="75" width="40" height="25" fill="#B4A57E"/></g>
+  <text y="155" class="name">130. Pink Lady’s Slipper</text>
+  <text y="173" class="hex">#C68595 · #857165 · #B4A57E</text>
+</g>
+<g transform="translate(768 4101)">
+  <title>131. Bee Orchid · #C19BA0 / #75564F / #D6BD71</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C19BA0"/>
+<rect x="60" width="40" height="75" fill="#75564F"/>
+<rect x="60" y="75" width="40" height="25" fill="#D6BD71"/></g>
+  <text y="155" class="name">131. Bee Orchid</text>
+  <text y="173" class="hex">#C19BA0 · #75564F · #D6BD71</text>
+</g>
+<g transform="translate(954 4101)">
+  <title>132. Fly Orchid · #72585C / #A08984 / #737D4D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#72585C"/>
+<rect x="60" width="40" height="75" fill="#A08984"/>
+<rect x="60" y="75" width="40" height="25" fill="#737D4D"/></g>
+  <text y="155" class="name">132. Fly Orchid</text>
+  <text y="173" class="hex">#72585C · #A08984 · #737D4D</text>
+</g>
+<g transform="translate(24 4289)">
+  <title>133. Monkey Orchid · #AE7A6B / #DAC0AD / #7A4B4B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AE7A6B"/>
+<rect x="60" width="40" height="75" fill="#DAC0AD"/>
+<rect x="60" y="75" width="40" height="25" fill="#7A4B4B"/></g>
+  <text y="155" class="name">133. Monkey Orchid</text>
+  <text y="173" class="hex">#AE7A6B · #DAC0AD · #7A4B4B</text>
+</g>
+<g transform="translate(210 4289)">
+  <title>134. White Egret Orchid · #E8EADD / #B3B99C / #788264</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E8EADD"/>
+<rect x="60" width="40" height="75" fill="#B3B99C"/>
+<rect x="60" y="75" width="40" height="25" fill="#788264"/></g>
+  <text y="155" class="name">134. White Egret Orchid</text>
+  <text y="173" class="hex">#E8EADD · #B3B99C · #788264</text>
+</g>
+<g transform="translate(396 4289)">
+  <title>135. Pansy Orchid · #CEA3C1 / #814B70 / #DFB84F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CEA3C1"/>
+<rect x="60" width="40" height="75" fill="#814B70"/>
+<rect x="60" y="75" width="40" height="25" fill="#DFB84F"/></g>
+  <text y="155" class="name">135. Pansy Orchid</text>
+  <text y="173" class="hex">#CEA3C1 · #814B70 · #DFB84F</text>
+</g>
+<g transform="translate(582 4289)">
+  <title>136. Queen of the Night · #E5DFC9 / #AF9074 / #6B7C52</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E5DFC9"/>
+<rect x="60" width="40" height="75" fill="#AF9074"/>
+<rect x="60" y="75" width="40" height="25" fill="#6B7C52"/></g>
+  <text y="155" class="name">136. Queen of the Night</text>
+  <text y="173" class="hex">#E5DFC9 · #AF9074 · #6B7C52</text>
+</g>
+<g transform="translate(768 4289)">
+  <title>137. King Protea · #CD878E / #DFC7BB / #888B6B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CD878E"/>
+<rect x="60" width="40" height="75" fill="#DFC7BB"/>
+<rect x="60" y="75" width="40" height="25" fill="#888B6B"/></g>
+  <text y="155" class="name">137. King Protea</text>
+  <text y="173" class="hex">#CD878E · #DFC7BB · #888B6B</text>
+</g>
+<g transform="translate(954 4289)">
+  <title>138. Sturt’s Desert Rose · #AE90AC / #D6B6CE / #8A4353</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AE90AC"/>
+<rect x="60" width="40" height="75" fill="#D6B6CE"/>
+<rect x="60" y="75" width="40" height="25" fill="#8A4353"/></g>
+  <text y="155" class="name">138. Sturt’s Desert Rose</text>
+  <text y="173" class="hex">#AE90AC · #D6B6CE · #8A4353</text>
+</g>
+<g transform="translate(24 4477)">
+  <title>139. Sea Lavender · #A39DC3 / #C6B8D3 / #787D5D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A39DC3"/>
+<rect x="60" width="40" height="75" fill="#C6B8D3"/>
+<rect x="60" y="75" width="40" height="25" fill="#787D5D"/></g>
+  <text y="155" class="name">139. Sea Lavender</text>
+  <text y="173" class="hex">#A39DC3 · #C6B8D3 · #787D5D</text>
+</g>
+<g transform="translate(210 4477)">
+  <title>140. Lavender · #947EAB / #AF9FC4 / #6B7C67</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#947EAB"/>
+<rect x="60" width="40" height="75" fill="#AF9FC4"/>
+<rect x="60" y="75" width="40" height="25" fill="#6B7C67"/></g>
+  <text y="155" class="name">140. Lavender</text>
+  <text y="173" class="hex">#947EAB · #AF9FC4 · #6B7C67</text>
+</g>
+<g transform="translate(396 4477)">
+  <title>141. Mexican Bush Sage · #926DA2 / #D3CAD2 / #6E8060</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#926DA2"/>
+<rect x="60" width="40" height="75" fill="#D3CAD2"/>
+<rect x="60" y="75" width="40" height="25" fill="#6E8060"/></g>
+  <text y="155" class="name">141. Mexican Bush Sage</text>
+  <text y="173" class="hex">#926DA2 · #D3CAD2 · #6E8060</text>
+</g>
+<g transform="translate(582 4477)">
+  <title>142. Blue Anise Sage · #596494 / #787BB3 / #3C3A47</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#596494"/>
+<rect x="60" width="40" height="75" fill="#787BB3"/>
+<rect x="60" y="75" width="40" height="25" fill="#3C3A47"/></g>
+  <text y="155" class="name">142. Blue Anise Sage</text>
+  <text y="173" class="hex">#596494 · #787BB3 · #3C3A47</text>
+</g>
+<g transform="translate(768 4477)">
+  <title>143. Great Blue Lobelia · #7174AD / #ADACCC / #78855A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7174AD"/>
+<rect x="60" width="40" height="75" fill="#ADACCC"/>
+<rect x="60" y="75" width="40" height="25" fill="#78855A"/></g>
+  <text y="155" class="name">143. Great Blue Lobelia</text>
+  <text y="173" class="hex">#7174AD · #ADACCC · #78855A</text>
+</g>
+<g transform="translate(954 4477)">
+  <title>144. Red Trillium · #7D3E4E / #9D6B67 / #697C4B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7D3E4E"/>
+<rect x="60" width="40" height="75" fill="#9D6B67"/>
+<rect x="60" y="75" width="40" height="25" fill="#697C4B"/></g>
+  <text y="155" class="name">144. Red Trillium</text>
+  <text y="173" class="hex">#7D3E4E · #9D6B67 · #697C4B</text>
+</g>
+<g transform="translate(24 4665)">
+  <title>145. Wake Robin · #715451 / #839B68 / #B4BB88</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#715451"/>
+<rect x="60" width="40" height="75" fill="#839B68"/>
+<rect x="60" y="75" width="40" height="25" fill="#B4BB88"/></g>
+  <text y="155" class="name">145. Wake Robin</text>
+  <text y="173" class="hex">#715451 · #839B68 · #B4BB88</text>
+</g>
+<g transform="translate(210 4665)">
+  <title>146. Auricula · #9A7D87 / #DDDBC1 / #C2BE5B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9A7D87"/>
+<rect x="60" width="40" height="75" fill="#DDDBC1"/>
+<rect x="60" y="75" width="40" height="25" fill="#C2BE5B"/></g>
+  <text y="155" class="name">146. Auricula</text>
+  <text y="173" class="hex">#9A7D87 · #DDDBC1 · #C2BE5B</text>
+</g>
+<g transform="translate(396 4665)">
+  <title>147. Hardy Cyclamen · #B78AB2 / #DABFD5 / #758167</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B78AB2"/>
+<rect x="60" width="40" height="75" fill="#DABFD5"/>
+<rect x="60" y="75" width="40" height="25" fill="#758167"/></g>
+  <text y="155" class="name">147. Hardy Cyclamen</text>
+  <text y="173" class="hex">#B78AB2 · #DABFD5 · #758167</text>
+</g>
+<g transform="translate(582 4665)">
+  <title>148. Frangipani · #E2A5A7 / #DBCAA0 / #C67C84</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E2A5A7"/>
+<rect x="60" width="40" height="75" fill="#DBCAA0"/>
+<rect x="60" y="75" width="40" height="25" fill="#C67C84"/></g>
+  <text y="155" class="name">148. Frangipani</text>
+  <text y="173" class="hex">#E2A5A7 · #DBCAA0 · #C67C84</text>
+</g>
+<g transform="translate(768 4665)">
+  <title>149. Night-blooming Jasmine · #C4D2AF / #99A66E / #617D4F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C4D2AF"/>
+<rect x="60" width="40" height="75" fill="#99A66E"/>
+<rect x="60" y="75" width="40" height="25" fill="#617D4F"/></g>
+  <text y="155" class="name">149. Night-blooming Jasmine</text>
+  <text y="173" class="hex">#C4D2AF · #99A66E · #617D4F</text>
+</g>
+<g transform="translate(954 4665)">
+  <title>150. Titan Arum · #885862 / #B78E8B / #B4A178</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#885862"/>
+<rect x="60" width="40" height="75" fill="#B78E8B"/>
+<rect x="60" y="75" width="40" height="25" fill="#B4A178"/></g>
+  <text y="155" class="name">150. Titan Arum</text>
+  <text y="173" class="hex">#885862 · #B78E8B · #B4A178</text>
+</g>
+<g transform="translate(24 4853)">
+  <title>151. Marvelous Spatuletail · #608556 / #695884 / #278395</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#608556"/>
+<rect x="60" width="40" height="75" fill="#695884"/>
+<rect x="60" y="75" width="40" height="25" fill="#278395"/></g>
+  <text y="155" class="name">151. Marvelous Spatuletail</text>
+  <text y="173" class="hex">#608556 · #695884 · #278395</text>
+</g>
+<g transform="translate(210 4853)">
+  <title>152. Purple-crowned Fairywren · #A18E73 / #816890 / #658FA2</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A18E73"/>
+<rect x="60" width="40" height="75" fill="#816890"/>
+<rect x="60" y="75" width="40" height="25" fill="#658FA2"/></g>
+  <text y="155" class="name">152. Purple-crowned Fairywren</text>
+  <text y="173" class="hex">#A18E73 · #816890 · #658FA2</text>
+</g>
+<g transform="translate(396 4853)">
+  <title>153. Blue Bird-of-paradise · #3B8BAE / #23373A / #A27F4E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3B8BAE"/>
+<rect x="60" width="40" height="75" fill="#23373A"/>
+<rect x="60" y="75" width="40" height="25" fill="#A27F4E"/></g>
+  <text y="155" class="name">153. Blue Bird-of-paradise</text>
+  <text y="173" class="hex">#3B8BAE · #23373A · #A27F4E</text>
+</g>
+<g transform="translate(582 4853)">
+  <title>154. Northern Carmine Bee-eater · #BF6F76 / #46818E / #7A6964</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BF6F76"/>
+<rect x="60" width="40" height="75" fill="#46818E"/>
+<rect x="60" y="75" width="40" height="25" fill="#7A6964"/></g>
+  <text y="155" class="name">154. Northern Carmine Bee-eater</text>
+  <text y="173" class="hex">#BF6F76 · #46818E · #7A6964</text>
+</g>
+<g transform="translate(768 4853)">
+  <title>155. Purple Grenadier · #996749 / #696C93 / #CE5D50</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#996749"/>
+<rect x="60" width="40" height="75" fill="#696C93"/>
+<rect x="60" y="75" width="40" height="25" fill="#CE5D50"/></g>
+  <text y="155" class="name">155. Purple Grenadier</text>
+  <text y="173" class="hex">#996749 · #696C93 · #CE5D50</text>
+</g>
+<g transform="translate(954 4853)">
+  <title>156. Banggai Cardinalfish · #B0B4A8 / #3D3C40 / #D3D6D4</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B0B4A8"/>
+<rect x="60" width="40" height="75" fill="#3D3C40"/>
+<rect x="60" y="75" width="40" height="25" fill="#D3D6D4"/></g>
+  <text y="155" class="name">156. Banggai Cardinalfish</text>
+  <text y="173" class="hex">#B0B4A8 · #3D3C40 · #D3D6D4</text>
+</g>
+<g transform="translate(24 5041)">
+  <title>157. Weedy Seadragon · #B07B5F / #D3AA65 / #6D7F5A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B07B5F"/>
+<rect x="60" width="40" height="75" fill="#D3AA65"/>
+<rect x="60" y="75" width="40" height="25" fill="#6D7F5A"/></g>
+  <text y="155" class="name">157. Weedy Seadragon</text>
+  <text y="173" class="hex">#B07B5F · #D3AA65 · #6D7F5A</text>
+</g>
+<g transform="translate(210 5041)">
+  <title>158. Saddle Butterflyfish · #ACBBB8 / #506057 / #C5AA43</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#ACBBB8"/>
+<rect x="60" width="40" height="75" fill="#506057"/>
+<rect x="60" y="75" width="40" height="25" fill="#C5AA43"/></g>
+  <text y="155" class="name">158. Saddle Butterflyfish</text>
+  <text y="173" class="hex">#ACBBB8 · #506057 · #C5AA43</text>
+</g>
+<g transform="translate(396 5041)">
+  <title>159. Coral Beauty Angelfish · #4A4879 / #A96849 / #726F73</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4A4879"/>
+<rect x="60" width="40" height="75" fill="#A96849"/>
+<rect x="60" y="75" width="40" height="25" fill="#726F73"/></g>
+  <text y="155" class="name">159. Coral Beauty Angelfish</text>
+  <text y="173" class="hex">#4A4879 · #A96849 · #726F73</text>
+</g>
+<g transform="translate(582 5041)">
+  <title>160. Princess Parrotfish · #639EA5 / #7979AF / #C0A54F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#639EA5"/>
+<rect x="60" width="40" height="75" fill="#7979AF"/>
+<rect x="60" y="75" width="40" height="25" fill="#C0A54F"/></g>
+  <text y="155" class="name">160. Princess Parrotfish</text>
+  <text y="173" class="hex">#639EA5 · #7979AF · #C0A54F</text>
+</g>
+<g transform="translate(768 5041)">
+  <title>161. Powder Blue Tang · #808EB2 / #353843 / #DABA5E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#808EB2"/>
+<rect x="60" width="40" height="75" fill="#353843"/>
+<rect x="60" y="75" width="40" height="25" fill="#DABA5E"/></g>
+  <text y="155" class="name">161. Powder Blue Tang</text>
+  <text y="173" class="hex">#808EB2 · #353843 · #DABA5E</text>
+</g>
+<g transform="translate(954 5041)">
+  <title>162. White-spotted Puffer · #798278 / #DAD5C0 / #474A4F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#798278"/>
+<rect x="60" width="40" height="75" fill="#DAD5C0"/>
+<rect x="60" y="75" width="40" height="25" fill="#474A4F"/></g>
+  <text y="155" class="name">162. White-spotted Puffer</text>
+  <text y="173" class="hex">#798278 · #DAD5C0 · #474A4F</text>
+</g>
+<g transform="translate(24 5229)">
+  <title>163. Purple Nudibranch · #AC74AC / #B58393 / #6F5B63</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AC74AC"/>
+<rect x="60" width="40" height="75" fill="#B58393"/>
+<rect x="60" y="75" width="40" height="25" fill="#6F5B63"/></g>
+  <text y="155" class="name">163. Purple Nudibranch</text>
+  <text y="173" class="hex">#AC74AC · #B58393 · #6F5B63</text>
+</g>
+<g transform="translate(210 5229)">
+  <title>164. Blue Velvet Sea Slug · #2A353C / #40879B / #77999E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#2A353C"/>
+<rect x="60" width="40" height="75" fill="#40879B"/>
+<rect x="60" y="75" width="40" height="25" fill="#77999E"/></g>
+  <text y="155" class="name">164. Blue Velvet Sea Slug</text>
+  <text y="173" class="hex">#2A353C · #40879B · #77999E</text>
+</g>
+<g transform="translate(396 5229)">
+  <title>165. Nembrotha cristata · #343D39 / #619667 / #83A489</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#343D39"/>
+<rect x="60" width="40" height="75" fill="#619667"/>
+<rect x="60" y="75" width="40" height="25" fill="#83A489"/></g>
+  <text y="155" class="name">165. Nembrotha cristata</text>
+  <text y="173" class="hex">#343D39 · #619667 · #83A489</text>
+</g>
+<g transform="translate(582 5229)">
+  <title>166. Flamingo Tongue Snail · #E1AF68 / #574038 / #D6D2C0</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E1AF68"/>
+<rect x="60" width="40" height="75" fill="#574038"/>
+<rect x="60" y="75" width="40" height="25" fill="#D6D2C0"/></g>
+  <text y="155" class="name">166. Flamingo Tongue Snail</text>
+  <text y="173" class="hex">#E1AF68 · #574038 · #D6D2C0</text>
+</g>
+<g transform="translate(768 5229)">
+  <title>167. Sexy Shrimp · #9C7655 / #D1BDA8 / #736D73</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9C7655"/>
+<rect x="60" width="40" height="75" fill="#D1BDA8"/>
+<rect x="60" y="75" width="40" height="25" fill="#736D73"/></g>
+  <text y="155" class="name">167. Sexy Shrimp</text>
+  <text y="173" class="hex">#9C7655 · #D1BDA8 · #736D73</text>
+</g>
+<g transform="translate(954 5229)">
+  <title>168. Harlequin Shrimp · #E0C7B5 / #A97F98 / #795E67</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E0C7B5"/>
+<rect x="60" width="40" height="75" fill="#A97F98"/>
+<rect x="60" y="75" width="40" height="25" fill="#795E67"/></g>
+  <text y="155" class="name">168. Harlequin Shrimp</text>
+  <text y="173" class="hex">#E0C7B5 · #A97F98 · #795E67</text>
+</g>
+<g transform="translate(24 5417)">
+  <title>169. Amazon Milk Frog · #C7CEC1 / #5A5247 / #8E9C91</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C7CEC1"/>
+<rect x="60" width="40" height="75" fill="#5A5247"/>
+<rect x="60" y="75" width="40" height="25" fill="#8E9C91"/></g>
+  <text y="155" class="name">169. Amazon Milk Frog</text>
+  <text y="173" class="hex">#C7CEC1 · #5A5247 · #8E9C91</text>
+</g>
+<g transform="translate(210 5417)">
+  <title>170. Waxy Monkey Tree Frog · #7A8451 / #A2A666 / #C1B48F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7A8451"/>
+<rect x="60" width="40" height="75" fill="#A2A666"/>
+<rect x="60" y="75" width="40" height="25" fill="#C1B48F"/></g>
+  <text y="155" class="name">170. Waxy Monkey Tree Frog</text>
+  <text y="173" class="hex">#7A8451 · #A2A666 · #C1B48F</text>
+</g>
+<g transform="translate(396 5417)">
+  <title>171. Oriental Fire-bellied Toad · #847A4D / #48453D / #BD6B56</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#847A4D"/>
+<rect x="60" width="40" height="75" fill="#48453D"/>
+<rect x="60" y="75" width="40" height="25" fill="#BD6B56"/></g>
+  <text y="155" class="name">171. Oriental Fire-bellied Toad</text>
+  <text y="173" class="hex">#847A4D · #48453D · #BD6B56</text>
+</g>
+<g transform="translate(582 5417)">
+  <title>172. Italian Wall Lizard · #7C8355 / #846C57 / #6E859C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7C8355"/>
+<rect x="60" width="40" height="75" fill="#846C57"/>
+<rect x="60" y="75" width="40" height="25" fill="#6E859C"/></g>
+  <text y="155" class="name">172. Italian Wall Lizard</text>
+  <text y="173" class="hex">#7C8355 · #846C57 · #6E859C</text>
+</g>
+<g transform="translate(768 5417)">
+  <title>173. Blue Tree Monitor · #365A82 / #4883AE / #31384A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#365A82"/>
+<rect x="60" width="40" height="75" fill="#4883AE"/>
+<rect x="60" y="75" width="40" height="25" fill="#31384A"/></g>
+  <text y="155" class="name">173. Blue Tree Monitor</text>
+  <text y="173" class="hex">#365A82 · #4883AE · #31384A</text>
+</g>
+<g transform="translate(954 5417)">
+  <title>174. Mwanza Flat-headed Rock Agama · #576498 / #B6697D / #494251</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#576498"/>
+<rect x="60" width="40" height="75" fill="#B6697D"/>
+<rect x="60" y="75" width="40" height="25" fill="#494251"/></g>
+  <text y="155" class="name">174. Mwanza Flat-headed Rock Agama</text>
+  <text y="173" class="hex">#576498 · #B6697D · #494251</text>
+</g>
+<g transform="translate(24 5605)">
+  <title>175. Malachite Butterfly · #98B267 / #504B3B / #798758</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#98B267"/>
+<rect x="60" width="40" height="75" fill="#504B3B"/>
+<rect x="60" y="75" width="40" height="25" fill="#798758"/></g>
+  <text y="155" class="name">175. Malachite Butterfly</text>
+  <text y="173" class="hex">#98B267 · #504B3B · #798758</text>
+</g>
+<g transform="translate(210 5605)">
+  <title>176. Cairns Birdwing · #618954 / #353A35 / #ADAE5E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#618954"/>
+<rect x="60" width="40" height="75" fill="#353A35"/>
+<rect x="60" y="75" width="40" height="25" fill="#ADAE5E"/></g>
+  <text y="155" class="name">176. Cairns Birdwing</text>
+  <text y="173" class="hex">#618954 · #353A35 · #ADAE5E</text>
+</g>
+<g transform="translate(396 5605)">
+  <title>177. Common Bluebottle · #5B9F94 / #45413C / #A9AF77</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5B9F94"/>
+<rect x="60" width="40" height="75" fill="#45413C"/>
+<rect x="60" y="75" width="40" height="25" fill="#A9AF77"/></g>
+  <text y="155" class="name">177. Common Bluebottle</text>
+  <text y="173" class="hex">#5B9F94 · #45413C · #A9AF77</text>
+</g>
+<g transform="translate(582 5605)">
+  <title>178. Picasso Bug · #A59E66 / #D5AD70 / #6E4C41</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A59E66"/>
+<rect x="60" width="40" height="75" fill="#D5AD70"/>
+<rect x="60" y="75" width="40" height="25" fill="#6E4C41"/></g>
+  <text y="155" class="name">178. Picasso Bug</text>
+  <text y="173" class="hex">#A59E66 · #D5AD70 · #6E4C41</text>
+</g>
+<g transform="translate(768 5605)">
+  <title>179. Cotton Harlequin Bug · #C18258 / #6F7A91 / #49504B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C18258"/>
+<rect x="60" width="40" height="75" fill="#6F7A91"/>
+<rect x="60" y="75" width="40" height="25" fill="#49504B"/></g>
+  <text y="155" class="name">179. Cotton Harlequin Bug</text>
+  <text y="173" class="hex">#C18258 · #6F7A91 · #49504B</text>
+</g>
+<g transform="translate(954 5605)">
+  <title>180. Blue Carpenter Bee · #528696 / #38373C / #90AAAF</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#528696"/>
+<rect x="60" width="40" height="75" fill="#38373C"/>
+<rect x="60" y="75" width="40" height="25" fill="#90AAAF"/></g>
+  <text y="155" class="name">180. Blue Carpenter Bee</text>
+  <text y="173" class="hex">#528696 · #38373C · #90AAAF</text>
+</g>
+<g transform="translate(24 5793)">
+  <title>181. Indian Flower Mantis · #928C53 / #D8C8A6 / #9F6C5F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#928C53"/>
+<rect x="60" width="40" height="75" fill="#D8C8A6"/>
+<rect x="60" y="75" width="40" height="25" fill="#9F6C5F"/></g>
+  <text y="155" class="name">181. Indian Flower Mantis</text>
+  <text y="173" class="hex">#928C53 · #D8C8A6 · #9F6C5F</text>
+</g>
+<g transform="translate(210 5793)">
+  <title>182. Spiny Flower Mantis · #DCC9AA / #7F956B / #928488</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DCC9AA"/>
+<rect x="60" width="40" height="75" fill="#7F956B"/>
+<rect x="60" y="75" width="40" height="25" fill="#928488"/></g>
+  <text y="155" class="name">182. Spiny Flower Mantis</text>
+  <text y="173" class="hex">#DCC9AA · #7F956B · #928488</text>
+</g>
+<g transform="translate(396 5793)">
+  <title>183. Aye-aye · #615851 / #92847B / #C0A070</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#615851"/>
+<rect x="60" width="40" height="75" fill="#92847B"/>
+<rect x="60" y="75" width="40" height="25" fill="#C0A070"/></g>
+  <text y="155" class="name">183. Aye-aye</text>
+  <text y="173" class="hex">#615851 · #92847B · #C0A070</text>
+</g>
+<g transform="translate(582 5793)">
+  <title>184. Clouded Leopard · #AA946B / #6B5D46 / #443A37</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AA946B"/>
+<rect x="60" width="40" height="75" fill="#6B5D46"/>
+<rect x="60" y="75" width="40" height="25" fill="#443A37"/></g>
+  <text y="155" class="name">184. Clouded Leopard</text>
+  <text y="173" class="hex">#AA946B · #6B5D46 · #443A37</text>
+</g>
+<g transform="translate(768 5793)">
+  <title>185. Harlequin Flying Fox · #736250 / #BFA778 / #49423D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#736250"/>
+<rect x="60" width="40" height="75" fill="#BFA778"/>
+<rect x="60" y="75" width="40" height="25" fill="#49423D"/></g>
+  <text y="155" class="name">185. Harlequin Flying Fox</text>
+  <text y="173" class="hex">#736250 · #BFA778 · #49423D</text>
+</g>
+<g transform="translate(954 5793)">
+  <title>186. Striped Polecat · #4D433E / #D6C6B0 / #957A63</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4D433E"/>
+<rect x="60" width="40" height="75" fill="#D6C6B0"/>
+<rect x="60" y="75" width="40" height="25" fill="#957A63"/></g>
+  <text y="155" class="name">186. Striped Polecat</text>
+  <text y="173" class="hex">#4D433E · #D6C6B0 · #957A63</text>
+</g>
+<g transform="translate(24 5981)">
+  <title>187. Blueberry · #526796 / #292C50 / #B1BCD2</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#526796"/>
+<rect x="60" width="40" height="75" fill="#292C50"/>
+<rect x="60" y="75" width="40" height="25" fill="#B1BCD2"/></g>
+  <text y="155" class="name">187. Blueberry</text>
+  <text y="173" class="hex">#526796 · #292C50 · #B1BCD2</text>
+</g>
+<g transform="translate(210 5981)">
+  <title>188. Mangosteen · #632749 / #F1E7D8 / #7D9B49</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#632749"/>
+<rect x="60" width="40" height="75" fill="#F1E7D8"/>
+<rect x="60" y="75" width="40" height="25" fill="#7D9B49"/></g>
+  <text y="155" class="name">188. Mangosteen</text>
+  <text y="173" class="hex">#632749 · #F1E7D8 · #7D9B49</text>
+</g>
+<g transform="translate(396 5981)">
+  <title>189. Coconut · #8A5537 / #EFE6D7 / #563B2D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8A5537"/>
+<rect x="60" width="40" height="75" fill="#EFE6D7"/>
+<rect x="60" y="75" width="40" height="25" fill="#563B2D"/></g>
+  <text y="155" class="name">189. Coconut</text>
+  <text y="173" class="hex">#8A5537 · #EFE6D7 · #563B2D</text>
+</g>
+<g transform="translate(582 5981)">
+  <title>190. Red Grapes · #A85B73 / #E0A5AC / #657544</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A85B73"/>
+<rect x="60" width="40" height="75" fill="#E0A5AC"/>
+<rect x="60" y="75" width="40" height="25" fill="#657544"/></g>
+  <text y="155" class="name">190. Red Grapes</text>
+  <text y="173" class="hex">#A85B73 · #E0A5AC · #657544</text>
+</g>
+<g transform="translate(768 5981)">
+  <title>191. Plum · #724475 / #9E749E / #E8BE69</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#724475"/>
+<rect x="60" width="40" height="75" fill="#9E749E"/>
+<rect x="60" y="75" width="40" height="25" fill="#E8BE69"/></g>
+  <text y="155" class="name">191. Plum</text>
+  <text y="173" class="hex">#724475 · #9E749E · #E8BE69</text>
+</g>
+<g transform="translate(954 5981)">
+  <title>192. Węgierka Plum · #4D416F / #777AA0 / #CAA449</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4D416F"/>
+<rect x="60" width="40" height="75" fill="#777AA0"/>
+<rect x="60" y="75" width="40" height="25" fill="#CAA449"/></g>
+  <text y="155" class="name">192. Węgierka Plum</text>
+  <text y="173" class="hex">#4D416F · #777AA0 · #CAA449</text>
+</g>
+<g transform="translate(24 6169)">
+  <title>193. Conference Pear · #8E9A48 / #B49B57 / #E2D0A6</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8E9A48"/>
+<rect x="60" width="40" height="75" fill="#B49B57"/>
+<rect x="60" y="75" width="40" height="25" fill="#E2D0A6"/></g>
+  <text y="155" class="name">193. Conference Pear</text>
+  <text y="173" class="hex">#8E9A48 · #B49B57 · #E2D0A6</text>
+</g>
+<g transform="translate(210 6169)">
+  <title>194. White Currant · #E7D4A5 / #F4E7C9 / #8E9B4F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E7D4A5"/>
+<rect x="60" width="40" height="75" fill="#F4E7C9"/>
+<rect x="60" y="75" width="40" height="25" fill="#8E9B4F"/></g>
+  <text y="155" class="name">194. White Currant</text>
+  <text y="173" class="hex">#E7D4A5 · #F4E7C9 · #8E9B4F</text>
+</g>
+<g transform="translate(396 6169)">
+  <title>195. Blackcurrant · #3B2A49 / #79547C / #647F42</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3B2A49"/>
+<rect x="60" width="40" height="75" fill="#79547C"/>
+<rect x="60" y="75" width="40" height="25" fill="#647F42"/></g>
+  <text y="155" class="name">195. Blackcurrant</text>
+  <text y="173" class="hex">#3B2A49 · #79547C · #647F42</text>
+</g>
+<g transform="translate(582 6169)">
+  <title>196. Red Gooseberry · #A6566C / #D68B91 / #748747</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A6566C"/>
+<rect x="60" width="40" height="75" fill="#D68B91"/>
+<rect x="60" y="75" width="40" height="25" fill="#748747"/></g>
+  <text y="155" class="name">196. Red Gooseberry</text>
+  <text y="173" class="hex">#A6566C · #D68B91 · #748747</text>
+</g>
+<g transform="translate(768 6169)">
+  <title>197. Fig · #684164 / #D69187 / #B0AC63</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#684164"/>
+<rect x="60" width="40" height="75" fill="#D69187"/>
+<rect x="60" y="75" width="40" height="25" fill="#B0AC63"/></g>
+  <text y="155" class="name">197. Fig</text>
+  <text y="173" class="hex">#684164 · #D69187 · #B0AC63</text>
+</g>
+<g transform="translate(954 6169)">
+  <title>198. Potato · #BC895D / #E7CEA0 / #795238</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BC895D"/>
+<rect x="60" width="40" height="75" fill="#E7CEA0"/>
+<rect x="60" y="75" width="40" height="25" fill="#795238"/></g>
+  <text y="155" class="name">198. Potato</text>
+  <text y="173" class="hex">#BC895D · #E7CEA0 · #795238</text>
+</g>
+<g transform="translate(24 6357)">
+  <title>199. Ginger · #CDA374 / #EAD3A2 / #A47750</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CDA374"/>
+<rect x="60" width="40" height="75" fill="#EAD3A2"/>
+<rect x="60" y="75" width="40" height="25" fill="#A47750"/></g>
+  <text y="155" class="name">199. Ginger</text>
+  <text y="173" class="hex">#CDA374 · #EAD3A2 · #A47750</text>
+</g>
+<g transform="translate(210 6357)">
+  <title>200. Cassava · #87553E / #F1E1C8 / #C79573</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#87553E"/>
+<rect x="60" width="40" height="75" fill="#F1E1C8"/>
+<rect x="60" y="75" width="40" height="25" fill="#C79573"/></g>
+  <text y="155" class="name">200. Cassava</text>
+  <text y="173" class="hex">#87553E · #F1E1C8 · #C79573</text>
+</g>
+<g transform="translate(396 6357)">
+  <title>201. Sweet Onion · #E9D7B5 / #C69D67 / #F8EEDA</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E9D7B5"/>
+<rect x="60" width="40" height="75" fill="#C69D67"/>
+<rect x="60" y="75" width="40" height="25" fill="#F8EEDA"/></g>
+  <text y="155" class="name">201. Sweet Onion</text>
+  <text y="173" class="hex">#E9D7B5 · #C69D67 · #F8EEDA</text>
+</g>
+<g transform="translate(582 6357)">
+  <title>202. Purple Garlic · #B4809C / #F0DCC8 / #794E74</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B4809C"/>
+<rect x="60" width="40" height="75" fill="#F0DCC8"/>
+<rect x="60" y="75" width="40" height="25" fill="#794E74"/></g>
+  <text y="155" class="name">202. Purple Garlic</text>
+  <text y="173" class="hex">#B4809C · #F0DCC8 · #794E74</text>
+</g>
+<g transform="translate(768 6357)">
+  <title>203. Black Garlic · #392D2B / #795042 / #D9B897</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#392D2B"/>
+<rect x="60" width="40" height="75" fill="#795042"/>
+<rect x="60" y="75" width="40" height="25" fill="#D9B897"/></g>
+  <text y="155" class="name">203. Black Garlic</text>
+  <text y="173" class="hex">#392D2B · #795042 · #D9B897</text>
+</g>
+<g transform="translate(954 6357)">
+  <title>204. Chocolate Tomato · #793D45 / #9E5A43 / #647540</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#793D45"/>
+<rect x="60" width="40" height="75" fill="#9E5A43"/>
+<rect x="60" y="75" width="40" height="25" fill="#647540"/></g>
+  <text y="155" class="name">204. Chocolate Tomato</text>
+  <text y="173" class="hex">#793D45 · #9E5A43 · #647540</text>
+</g>
+<g transform="translate(24 6545)">
+  <title>205. Leek · #649055 / #B7C987 / #F0E8CD</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#649055"/>
+<rect x="60" width="40" height="75" fill="#B7C987"/>
+<rect x="60" y="75" width="40" height="25" fill="#F0E8CD"/></g>
+  <text y="155" class="name">205. Leek</text>
+  <text y="173" class="hex">#649055 · #B7C987 · #F0E8CD</text>
+</g>
+<g transform="translate(210 6545)">
+  <title>206. Celeriac · #C6AD89 / #EADDC5 / #83724C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C6AD89"/>
+<rect x="60" width="40" height="75" fill="#EADDC5"/>
+<rect x="60" y="75" width="40" height="25" fill="#83724C"/></g>
+  <text y="155" class="name">206. Celeriac</text>
+  <text y="173" class="hex">#C6AD89 · #EADDC5 · #83724C</text>
+</g>
+<g transform="translate(396 6545)">
+  <title>207. Rutabaga · #AE7590 / #D8BE8C / #78526D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AE7590"/>
+<rect x="60" width="40" height="75" fill="#D8BE8C"/>
+<rect x="60" y="75" width="40" height="25" fill="#78526D"/></g>
+  <text y="155" class="name">207. Rutabaga</text>
+  <text y="173" class="hex">#AE7590 · #D8BE8C · #78526D</text>
+</g>
+<g transform="translate(582 6545)">
+  <title>208. Kohlrabi · #99B46B / #D4DBAE / #547C49</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#99B46B"/>
+<rect x="60" width="40" height="75" fill="#D4DBAE"/>
+<rect x="60" y="75" width="40" height="25" fill="#547C49"/></g>
+  <text y="155" class="name">208. Kohlrabi</text>
+  <text y="173" class="hex">#99B46B · #D4DBAE · #547C49</text>
+</g>
+<g transform="translate(768 6545)">
+  <title>209. White Cabbage · #C0CB88 / #E2E2BA / #7F9A58</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C0CB88"/>
+<rect x="60" width="40" height="75" fill="#E2E2BA"/>
+<rect x="60" y="75" width="40" height="25" fill="#7F9A58"/></g>
+  <text y="155" class="name">209. White Cabbage</text>
+  <text y="173" class="hex">#C0CB88 · #E2E2BA · #7F9A58</text>
+</g>
+<g transform="translate(954 6545)">
+  <title>210. Cauliflower · #EAE2C8 / #729651 / #B0BB7E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#EAE2C8"/>
+<rect x="60" width="40" height="75" fill="#729651"/>
+<rect x="60" y="75" width="40" height="25" fill="#B0BB7E"/></g>
+  <text y="155" class="name">210. Cauliflower</text>
+  <text y="173" class="hex">#EAE2C8 · #729651 · #B0BB7E</text>
+</g>
+<g transform="translate(24 6733)">
+  <title>211. Daikon · #EEE7D6 / #B8C98C / #517944</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#EEE7D6"/>
+<rect x="60" width="40" height="75" fill="#B8C98C"/>
+<rect x="60" y="75" width="40" height="25" fill="#517944"/></g>
+  <text y="155" class="name">211. Daikon</text>
+  <text y="173" class="hex">#EEE7D6 · #B8C98C · #517944</text>
+</g>
+<g transform="translate(210 6733)">
+  <title>212. Green Asparagus · #5F8E4D / #97B16E / #7A5874</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5F8E4D"/>
+<rect x="60" width="40" height="75" fill="#97B16E"/>
+<rect x="60" y="75" width="40" height="25" fill="#7A5874"/></g>
+  <text y="155" class="name">212. Green Asparagus</text>
+  <text y="173" class="hex">#5F8E4D · #97B16E · #7A5874</text>
+</g>
+<g transform="translate(396 6733)">
+  <title>213. White Asparagus · #F2E5C9 / #DBC99B / #A68B78</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F2E5C9"/>
+<rect x="60" width="40" height="75" fill="#DBC99B"/>
+<rect x="60" y="75" width="40" height="25" fill="#A68B78"/></g>
+  <text y="155" class="name">213. White Asparagus</text>
+  <text y="173" class="hex">#F2E5C9 · #DBC99B · #A68B78</text>
+</g>
+<g transform="translate(582 6733)">
+  <title>214. Horseradish · #E9DFC8 / #AD8C67 / #647944</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E9DFC8"/>
+<rect x="60" width="40" height="75" fill="#AD8C67"/>
+<rect x="60" y="75" width="40" height="25" fill="#647944"/></g>
+  <text y="155" class="name">214. Horseradish</text>
+  <text y="173" class="hex">#E9DFC8 · #AD8C67 · #647944</text>
+</g>
+<g transform="translate(768 6733)">
+  <title>215. Walnut · #977151 / #C49B67 / #61422F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#977151"/>
+<rect x="60" width="40" height="75" fill="#C49B67"/>
+<rect x="60" y="75" width="40" height="25" fill="#61422F"/></g>
+  <text y="155" class="name">215. Walnut</text>
+  <text y="173" class="hex">#977151 · #C49B67 · #61422F</text>
+</g>
+<g transform="translate(954 6733)">
+  <title>216. Macadamia Nut · #E1CEA4 / #F4E7CA / #A27147</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E1CEA4"/>
+<rect x="60" width="40" height="75" fill="#F4E7CA"/>
+<rect x="60" y="75" width="40" height="25" fill="#A27147"/></g>
+  <text y="155" class="name">216. Macadamia Nut</text>
+  <text y="173" class="hex">#E1CEA4 · #F4E7CA · #A27147</text>
+</g>
+<g transform="translate(24 6921)">
+  <title>217. Hazelnut · #AC7447 / #DEBB8A / #71462F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AC7447"/>
+<rect x="60" width="40" height="75" fill="#DEBB8A"/>
+<rect x="60" y="75" width="40" height="25" fill="#71462F"/></g>
+  <text y="155" class="name">217. Hazelnut</text>
+  <text y="173" class="hex">#AC7447 · #DEBB8A · #71462F</text>
+</g>
+<g transform="translate(210 6921)">
+  <title>218. White Fish · #EADFD2 / #C3CDD0 / #6A7B80</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#EADFD2"/>
+<rect x="60" width="40" height="75" fill="#C3CDD0"/>
+<rect x="60" y="75" width="40" height="25" fill="#6A7B80"/></g>
+  <text y="155" class="name">218. White Fish</text>
+  <text y="173" class="hex">#EADFD2 · #C3CDD0 · #6A7B80</text>
+</g>
+<g transform="translate(396 6921)">
+  <title>219. Roasted Coffee · #492D24 / #875438 / #BE946C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#492D24"/>
+<rect x="60" width="40" height="75" fill="#875438"/>
+<rect x="60" y="75" width="40" height="25" fill="#BE946C"/></g>
+  <text y="155" class="name">219. Roasted Coffee</text>
+  <text y="173" class="hex">#492D24 · #875438 · #BE946C</text>
+</g>
+<g transform="translate(582 6921)">
+  <title>220. Tea · #426744 / #829C54 / #B57A42</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#426744"/>
+<rect x="60" width="40" height="75" fill="#829C54"/>
+<rect x="60" y="75" width="40" height="25" fill="#B57A42"/></g>
+  <text y="155" class="name">220. Tea</text>
+  <text y="173" class="hex">#426744 · #829C54 · #B57A42</text>
+</g>
+<g transform="translate(768 6921)">
+  <title>221. White Pepper · #D9CBB1 / #BDA889 / #81705D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D9CBB1"/>
+<rect x="60" width="40" height="75" fill="#BDA889"/>
+<rect x="60" y="75" width="40" height="25" fill="#81705D"/></g>
+  <text y="155" class="name">221. White Pepper</text>
+  <text y="173" class="hex">#D9CBB1 · #BDA889 · #81705D</text>
+</g>
+<g transform="translate(954 6921)">
+  <title>222. Green Peppercorn · #657F47 / #A4AB6C / #43523C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#657F47"/>
+<rect x="60" width="40" height="75" fill="#A4AB6C"/>
+<rect x="60" y="75" width="40" height="25" fill="#43523C"/></g>
+  <text y="155" class="name">222. Green Peppercorn</text>
+  <text y="173" class="hex">#657F47 · #A4AB6C · #43523C</text>
+</g>
+<g transform="translate(24 7109)">
+  <title>223. Black Pepper · #393431 / #6B5A4C / #B29A79</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#393431"/>
+<rect x="60" width="40" height="75" fill="#6B5A4C"/>
+<rect x="60" y="75" width="40" height="25" fill="#B29A79"/></g>
+  <text y="155" class="name">223. Black Pepper</text>
+  <text y="173" class="hex">#393431 · #6B5A4C · #B29A79</text>
+</g>
+<g transform="translate(210 7109)">
+  <title>224. Himalayan Pink Salt · #D9978C / #F2C8B7 / #AF6D66</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D9978C"/>
+<rect x="60" width="40" height="75" fill="#F2C8B7"/>
+<rect x="60" y="75" width="40" height="25" fill="#AF6D66"/></g>
+  <text y="155" class="name">224. Himalayan Pink Salt</text>
+  <text y="173" class="hex">#D9978C · #F2C8B7 · #AF6D66</text>
+</g>
+<text x="24" y="7329" class="section">Brave · 177</text>
+<g transform="translate(24 7347)">
+  <title>225. Pistachio · #C49EAA / #AAAD43 / #CEA378</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C49EAA"/>
+<rect x="60" width="40" height="75" fill="#AAAD43"/>
+<rect x="60" y="75" width="40" height="25" fill="#CEA378"/></g>
+  <text y="155" class="name">225. Pistachio</text>
+  <text y="173" class="hex">#C49EAA · #AAAD43 · #CEA378</text>
+</g>
+<g transform="translate(210 7347)">
+  <title>226. Banana · #F1D18A / #DDAA42 / #785222</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F1D18A"/>
+<rect x="60" width="40" height="75" fill="#DDAA42"/>
+<rect x="60" y="75" width="40" height="25" fill="#785222"/></g>
+  <text y="155" class="name">226. Banana</text>
+  <text y="173" class="hex">#F1D18A · #DDAA42 · #785222</text>
+</g>
+<g transform="translate(396 7347)">
+  <title>227. Kiwi · #A9BA61 / #DAD69A / #595327</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A9BA61"/>
+<rect x="60" width="40" height="75" fill="#DAD69A"/>
+<rect x="60" y="75" width="40" height="25" fill="#595327"/></g>
+  <text y="155" class="name">227. Kiwi</text>
+  <text y="173" class="hex">#A9BA61 · #DAD69A · #595327</text>
+</g>
+<g transform="translate(582 7347)">
+  <title>228. Pomegranate · #A52834 / #CB453C / #D7A397</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A52834"/>
+<rect x="60" width="40" height="75" fill="#CB453C"/>
+<rect x="60" y="75" width="40" height="25" fill="#D7A397"/></g>
+  <text y="155" class="name">228. Pomegranate</text>
+  <text y="173" class="hex">#A52834 · #CB453C · #D7A397</text>
+</g>
+<g transform="translate(768 7347)">
+  <title>229. Carrot · #E37F18 / #3D762E / #E1A54E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E37F18"/>
+<rect x="60" width="40" height="75" fill="#3D762E"/>
+<rect x="60" y="75" width="40" height="25" fill="#E1A54E"/></g>
+  <text y="155" class="name">229. Carrot</text>
+  <text y="173" class="hex">#E37F18 · #3D762E · #E1A54E</text>
+</g>
+<g transform="translate(954 7347)">
+  <title>230. Avocado · #88AA42 / #777672 / #86462C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#88AA42"/>
+<rect x="60" width="40" height="75" fill="#777672"/>
+<rect x="60" y="75" width="40" height="25" fill="#86462C"/></g>
+  <text y="155" class="name">230. Avocado</text>
+  <text y="173" class="hex">#88AA42 · #777672 · #86462C</text>
+</g>
+<g transform="translate(24 7535)">
+  <title>231. Blood Orange · #BA473C / #CF6B2D / #D3B08B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BA473C"/>
+<rect x="60" width="40" height="75" fill="#CF6B2D"/>
+<rect x="60" y="75" width="40" height="25" fill="#D3B08B"/></g>
+  <text y="155" class="name">231. Blood Orange</text>
+  <text y="173" class="hex">#BA473C · #CF6B2D · #D3B08B</text>
+</g>
+<g transform="translate(210 7535)">
+  <title>232. Eggplant · #783F83 / #AD72AD / #7F8133</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#783F83"/>
+<rect x="60" width="40" height="75" fill="#AD72AD"/>
+<rect x="60" y="75" width="40" height="25" fill="#7F8133"/></g>
+  <text y="155" class="name">232. Eggplant</text>
+  <text y="173" class="hex">#783F83 · #AD72AD · #7F8133</text>
+</g>
+<g transform="translate(396 7535)">
+  <title>233. Red Apple · #FBDCAF / #D34325 / #750101</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#FBDCAF"/>
+<rect x="60" width="40" height="75" fill="#D34325"/>
+<rect x="60" y="75" width="40" height="25" fill="#750101"/></g>
+  <text y="155" class="name">233. Red Apple</text>
+  <text y="173" class="hex">#FBDCAF · #D34325 · #750101</text>
+</g>
+<g transform="translate(582 7535)">
+  <title>234. Madeira Cherimoya · #7E911E / #D8D5B6 / #272624</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7E911E"/>
+<rect x="60" width="40" height="75" fill="#D8D5B6"/>
+<rect x="60" y="75" width="40" height="25" fill="#272624"/></g>
+  <text y="155" class="name">234. Madeira Cherimoya</text>
+  <text y="173" class="hex">#7E911E · #D8D5B6 · #272624</text>
+</g>
+<g transform="translate(768 7535)">
+  <title>235. Lapis Lazuli · #3B3E95 / #C9C5BD / #A48961</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3B3E95"/>
+<rect x="60" width="40" height="75" fill="#C9C5BD"/>
+<rect x="60" y="75" width="40" height="25" fill="#A48961"/></g>
+  <text y="155" class="name">235. Lapis Lazuli</text>
+  <text y="173" class="hex">#3B3E95 · #C9C5BD · #A48961</text>
+</g>
+<g transform="translate(954 7535)">
+  <title>236. Ruby in Marble · #E0C8A8 / #A14555 / #652D39</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E0C8A8"/>
+<rect x="60" width="40" height="75" fill="#A14555"/>
+<rect x="60" y="75" width="40" height="25" fill="#652D39"/></g>
+  <text y="155" class="name">236. Ruby in Marble</text>
+  <text y="173" class="hex">#E0C8A8 · #A14555 · #652D39</text>
+</g>
+<g transform="translate(24 7723)">
+  <title>237. Anna’s Hummingbird · #517743 / #939389 / #C42E76</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#517743"/>
+<rect x="60" width="40" height="75" fill="#939389"/>
+<rect x="60" y="75" width="40" height="25" fill="#C42E76"/></g>
+  <text y="155" class="name">237. Anna’s Hummingbird</text>
+  <text y="173" class="hex">#517743 · #939389 · #C42E76</text>
+</g>
+<g transform="translate(210 7723)">
+  <title>238. Eurasian Blue Tit · #D3B553 / #527F9E / #DCE6DC</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D3B553"/>
+<rect x="60" width="40" height="75" fill="#527F9E"/>
+<rect x="60" y="75" width="40" height="25" fill="#DCE6DC"/></g>
+  <text y="155" class="name">238. Eurasian Blue Tit</text>
+  <text y="173" class="hex">#D3B553 · #527F9E · #DCE6DC</text>
+</g>
+<g transform="translate(396 7723)">
+  <title>239. Great Tit · #CAC044 / #413D3B / #B0B4A7</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CAC044"/>
+<rect x="60" width="40" height="75" fill="#413D3B"/>
+<rect x="60" y="75" width="40" height="25" fill="#B0B4A7"/></g>
+  <text y="155" class="name">239. Great Tit</text>
+  <text y="173" class="hex">#CAC044 · #413D3B · #B0B4A7</text>
+</g>
+<g transform="translate(582 7723)">
+  <title>240. Common Kingfisher · #32789F / #C17A41 / #E7DCC3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#32789F"/>
+<rect x="60" width="40" height="75" fill="#C17A41"/>
+<rect x="60" y="75" width="40" height="25" fill="#E7DCC3"/></g>
+  <text y="155" class="name">240. Common Kingfisher</text>
+  <text y="173" class="hex">#32789F · #C17A41 · #E7DCC3</text>
+</g>
+<g transform="translate(768 7723)">
+  <title>241. Superb Starling · #27828E / #B65F34 / #CFC8C9</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#27828E"/>
+<rect x="60" width="40" height="75" fill="#B65F34"/>
+<rect x="60" y="75" width="40" height="25" fill="#CFC8C9"/></g>
+  <text y="155" class="name">241. Superb Starling</text>
+  <text y="173" class="hex">#27828E · #B65F34 · #CFC8C9</text>
+</g>
+<g transform="translate(954 7723)">
+  <title>242. Blue-and-yellow Macaw · #347E82 / #D7A133 / #2F4C3B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#347E82"/>
+<rect x="60" width="40" height="75" fill="#D7A133"/>
+<rect x="60" y="75" width="40" height="25" fill="#2F4C3B"/></g>
+  <text y="155" class="name">242. Blue-and-yellow Macaw</text>
+  <text y="173" class="hex">#347E82 · #D7A133 · #2F4C3B</text>
+</g>
+<g transform="translate(24 7911)">
+  <title>243. Toco Toucan · #262A29 / #D18F35 / #E3E2D6</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#262A29"/>
+<rect x="60" width="40" height="75" fill="#D18F35"/>
+<rect x="60" y="75" width="40" height="25" fill="#E3E2D6"/></g>
+  <text y="155" class="name">243. Toco Toucan</text>
+  <text y="173" class="hex">#262A29 · #D18F35 · #E3E2D6</text>
+</g>
+<g transform="translate(210 7911)">
+  <title>244. Roseate Spoonbill · #D4809E / #EEC3C5 / #888F91</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D4809E"/>
+<rect x="60" width="40" height="75" fill="#EEC3C5"/>
+<rect x="60" y="75" width="40" height="25" fill="#888F91"/></g>
+  <text y="155" class="name">244. Roseate Spoonbill</text>
+  <text y="173" class="hex">#D4809E · #EEC3C5 · #888F91</text>
+</g>
+<g transform="translate(396 7911)">
+  <title>245. Lady Amherst’s Pheasant · #E2E2E1 / #2D443C / #BB392B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E2E2E1"/>
+<rect x="60" width="40" height="75" fill="#2D443C"/>
+<rect x="60" y="75" width="40" height="25" fill="#BB392B"/></g>
+  <text y="155" class="name">245. Lady Amherst’s Pheasant</text>
+  <text y="173" class="hex">#E2E2E1 · #2D443C · #BB392B</text>
+</g>
+<g transform="translate(582 7911)">
+  <title>246. Andean Cock-of-the-rock · #DC5335 / #302C3C / #A49C9E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DC5335"/>
+<rect x="60" width="40" height="75" fill="#302C3C"/>
+<rect x="60" y="75" width="40" height="25" fill="#A49C9E"/></g>
+  <text y="155" class="name">246. Andean Cock-of-the-rock</text>
+  <text y="173" class="hex">#DC5335 · #302C3C · #A49C9E</text>
+</g>
+<g transform="translate(768 7911)">
+  <title>247. Inca Tern · #59595D / #D85A4B / #E6DECF</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#59595D"/>
+<rect x="60" width="40" height="75" fill="#D85A4B"/>
+<rect x="60" y="75" width="40" height="25" fill="#E6DECF"/></g>
+  <text y="155" class="name">247. Inca Tern</text>
+  <text y="173" class="hex">#59595D · #D85A4B · #E6DECF</text>
+</g>
+<g transform="translate(954 7911)">
+  <title>248. Northern Cardinal · #B7393A / #432E29 / #B06447</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B7393A"/>
+<rect x="60" width="40" height="75" fill="#432E29"/>
+<rect x="60" y="75" width="40" height="25" fill="#B06447"/></g>
+  <text y="155" class="name">248. Northern Cardinal</text>
+  <text y="173" class="hex">#B7393A · #432E29 · #B06447</text>
+</g>
+<g transform="translate(24 8099)">
+  <title>249. Mandarinfish · #3668A6 / #C8693D / #559F90</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3668A6"/>
+<rect x="60" width="40" height="75" fill="#C8693D"/>
+<rect x="60" y="75" width="40" height="25" fill="#559F90"/></g>
+  <text y="155" class="name">249. Mandarinfish</text>
+  <text y="173" class="hex">#3668A6 · #C8693D · #559F90</text>
+</g>
+<g transform="translate(210 8099)">
+  <title>250. Palette Surgeonfish · #4B5EAC / #242A46 / #C2C543</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4B5EAC"/>
+<rect x="60" width="40" height="75" fill="#242A46"/>
+<rect x="60" y="75" width="40" height="25" fill="#C2C543"/></g>
+  <text y="155" class="name">250. Palette Surgeonfish</text>
+  <text y="173" class="hex">#4B5EAC · #242A46 · #C2C543</text>
+</g>
+<g transform="translate(396 8099)">
+  <title>251. Ocellaris Clownfish · #DC723B / #E6E5D7 / #303332</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DC723B"/>
+<rect x="60" width="40" height="75" fill="#E6E5D7"/>
+<rect x="60" y="75" width="40" height="25" fill="#303332"/></g>
+  <text y="155" class="name">251. Ocellaris Clownfish</text>
+  <text y="173" class="hex">#DC723B · #E6E5D7 · #303332</text>
+</g>
+<g transform="translate(582 8099)">
+  <title>252. Queen Angelfish · #4D8F98 / #D0B75E / #4A638B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4D8F98"/>
+<rect x="60" width="40" height="75" fill="#D0B75E"/>
+<rect x="60" y="75" width="40" height="25" fill="#4A638B"/></g>
+  <text y="155" class="name">252. Queen Angelfish</text>
+  <text y="173" class="hex">#4D8F98 · #D0B75E · #4A638B</text>
+</g>
+<g transform="translate(768 8099)">
+  <title>253. Moorish Idol · #333539 / #E1E5D8 / #DCD946</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#333539"/>
+<rect x="60" width="40" height="75" fill="#E1E5D8"/>
+<rect x="60" y="75" width="40" height="25" fill="#DCD946"/></g>
+  <text y="155" class="name">253. Moorish Idol</text>
+  <text y="173" class="hex">#333539 · #E1E5D8 · #DCD946</text>
+</g>
+<g transform="translate(954 8099)">
+  <title>254. Bicolour Angelfish · #314C8A / #D5B448 / #40737C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#314C8A"/>
+<rect x="60" width="40" height="75" fill="#D5B448"/>
+<rect x="60" y="75" width="40" height="25" fill="#40737C"/></g>
+  <text y="155" class="name">254. Bicolour Angelfish</text>
+  <text y="173" class="hex">#314C8A · #D5B448 · #40737C</text>
+</g>
+<g transform="translate(24 8287)">
+  <title>255. Ribbon Eel · #395E9E / #BEC339 / #2D3C59</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#395E9E"/>
+<rect x="60" width="40" height="75" fill="#BEC339"/>
+<rect x="60" y="75" width="40" height="25" fill="#2D3C59"/></g>
+  <text y="155" class="name">255. Ribbon Eel</text>
+  <text y="173" class="hex">#395E9E · #BEC339 · #2D3C59</text>
+</g>
+<g transform="translate(210 8287)">
+  <title>256. Blue-ringed Octopus · #E8C384 / #75401E / #0364F0</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E8C384"/>
+<rect x="60" width="40" height="75" fill="#75401E"/>
+<rect x="60" y="75" width="40" height="25" fill="#0364F0"/></g>
+  <text y="155" class="name">256. Blue-ringed Octopus</text>
+  <text y="173" class="hex">#E8C384 · #75401E · #0364F0</text>
+</g>
+<g transform="translate(396 8287)">
+  <title>257. Flamboyant Cuttlefish · #644957 / #D6B050 / #A96E8A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#644957"/>
+<rect x="60" width="40" height="75" fill="#D6B050"/>
+<rect x="60" y="75" width="40" height="25" fill="#A96E8A"/></g>
+  <text y="155" class="name">257. Flamboyant Cuttlefish</text>
+  <text y="173" class="hex">#644957 · #D6B050 · #A96E8A</text>
+</g>
+<g transform="translate(582 8287)">
+  <title>258. Spanish Dancer · #B5412C / #D4776A / #DFB3A7</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B5412C"/>
+<rect x="60" width="40" height="75" fill="#D4776A"/>
+<rect x="60" y="75" width="40" height="25" fill="#DFB3A7"/></g>
+  <text y="155" class="name">258. Spanish Dancer</text>
+  <text y="173" class="hex">#B5412C · #D4776A · #DFB3A7</text>
+</g>
+<g transform="translate(768 8287)">
+  <title>259. Fire Urchin · #9F4C4D / #C58161 / #6C4A7B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9F4C4D"/>
+<rect x="60" width="40" height="75" fill="#C58161"/>
+<rect x="60" y="75" width="40" height="25" fill="#6C4A7B"/></g>
+  <text y="155" class="name">259. Fire Urchin</text>
+  <text y="173" class="hex">#9F4C4D · #C58161 · #6C4A7B</text>
+</g>
+<g transform="translate(954 8287)">
+  <title>260. Blue Poison Dart Frog · #486EAF / #25384B / #75A4C3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#486EAF"/>
+<rect x="60" width="40" height="75" fill="#25384B"/>
+<rect x="60" y="75" width="40" height="25" fill="#75A4C3"/></g>
+  <text y="155" class="name">260. Blue Poison Dart Frog</text>
+  <text y="173" class="hex">#486EAF · #25384B · #75A4C3</text>
+</g>
+<g transform="translate(24 8475)">
+  <title>261. Strawberry Poison-dart Frog · #CA6138 / #526071 / #522E2F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CA6138"/>
+<rect x="60" width="40" height="75" fill="#526071"/>
+<rect x="60" y="75" width="40" height="25" fill="#522E2F"/></g>
+  <text y="155" class="name">261. Strawberry Poison-dart Frog</text>
+  <text y="173" class="hex">#CA6138 · #526071 · #522E2F</text>
+</g>
+<g transform="translate(210 8475)">
+  <title>262. Golden Poison Frog · #D2B335 / #E5D378 / #5E533C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D2B335"/>
+<rect x="60" width="40" height="75" fill="#E5D378"/>
+<rect x="60" y="75" width="40" height="25" fill="#5E533C"/></g>
+  <text y="155" class="name">262. Golden Poison Frog</text>
+  <text y="173" class="hex">#D2B335 · #E5D378 · #5E533C</text>
+</g>
+<g transform="translate(396 8475)">
+  <title>263. Fire Salamander · #323233 / #E5C33E / #7A736E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#323233"/>
+<rect x="60" width="40" height="75" fill="#E5C33E"/>
+<rect x="60" y="75" width="40" height="25" fill="#7A736E"/></g>
+  <text y="155" class="name">263. Fire Salamander</text>
+  <text y="173" class="hex">#323233 · #E5C33E · #7A736E</text>
+</g>
+<g transform="translate(582 8475)">
+  <title>264. Tokay Gecko · #7894AA / #B47340 / #B8AFAE</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7894AA"/>
+<rect x="60" width="40" height="75" fill="#B47340"/>
+<rect x="60" y="75" width="40" height="25" fill="#B8AFAE"/></g>
+  <text y="155" class="name">264. Tokay Gecko</text>
+  <text y="173" class="hex">#7894AA · #B47340 · #B8AFAE</text>
+</g>
+<g transform="translate(768 8475)">
+  <title>265. Gold Dust Day Gecko · #6E9A3F / #61A3A0 / #BA7448</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#6E9A3F"/>
+<rect x="60" width="40" height="75" fill="#61A3A0"/>
+<rect x="60" y="75" width="40" height="25" fill="#BA7448"/></g>
+  <text y="155" class="name">265. Gold Dust Day Gecko</text>
+  <text y="173" class="hex">#6E9A3F · #61A3A0 · #BA7448</text>
+</g>
+<g transform="translate(954 8475)">
+  <title>266. Emerald Tree Boa · #547346 / #A6BF71 / #D9E9B9</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#547346"/>
+<rect x="60" width="40" height="75" fill="#A6BF71"/>
+<rect x="60" y="75" width="40" height="25" fill="#D9E9B9"/></g>
+  <text y="155" class="name">266. Emerald Tree Boa</text>
+  <text y="173" class="hex">#547346 · #A6BF71 · #D9E9B9</text>
+</g>
+<g transform="translate(24 8663)">
+  <title>267. Scarlet Kingsnake · #A8433B / #362B2E / #E7CB86</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A8433B"/>
+<rect x="60" width="40" height="75" fill="#362B2E"/>
+<rect x="60" y="75" width="40" height="25" fill="#E7CB86"/></g>
+  <text y="155" class="name">267. Scarlet Kingsnake</text>
+  <text y="173" class="hex">#A8433B · #362B2E · #E7CB86</text>
+</g>
+<g transform="translate(210 8663)">
+  <title>268. Monarch Butterfly · #CF823C / #37322D / #E8D4C3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CF823C"/>
+<rect x="60" width="40" height="75" fill="#37322D"/>
+<rect x="60" y="75" width="40" height="25" fill="#E8D4C3"/></g>
+  <text y="155" class="name">268. Monarch Butterfly</text>
+  <text y="173" class="hex">#CF823C · #37322D · #E8D4C3</text>
+</g>
+<g transform="translate(396 8663)">
+  <title>269. Rosy Maple Moth · #E6BB6D / #BF728F / #E0CFB7</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E6BB6D"/>
+<rect x="60" width="40" height="75" fill="#BF728F"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0CFB7"/></g>
+  <text y="155" class="name">269. Rosy Maple Moth</text>
+  <text y="173" class="hex">#E6BB6D · #BF728F · #E0CFB7</text>
+</g>
+<g transform="translate(582 8663)">
+  <title>270. Cecropia Moth · #8C6656 / #A34A42 / #DFD3BA</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8C6656"/>
+<rect x="60" width="40" height="75" fill="#A34A42"/>
+<rect x="60" y="75" width="40" height="25" fill="#DFD3BA"/></g>
+  <text y="155" class="name">270. Cecropia Moth</text>
+  <text y="173" class="hex">#8C6656 · #A34A42 · #DFD3BA</text>
+</g>
+<g transform="translate(768 8663)">
+  <title>271. Jewel Beetle · #419A6D / #67843E / #96585F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#419A6D"/>
+<rect x="60" width="40" height="75" fill="#67843E"/>
+<rect x="60" y="75" width="40" height="25" fill="#96585F"/></g>
+  <text y="155" class="name">271. Jewel Beetle</text>
+  <text y="173" class="hex">#419A6D · #67843E · #96585F</text>
+</g>
+<g transform="translate(954 8663)">
+  <title>272. Halloween Pennant · #CB8B45 / #734F3E / #E0B674</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CB8B45"/>
+<rect x="60" width="40" height="75" fill="#734F3E"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0B674"/></g>
+  <text y="155" class="name">272. Halloween Pennant</text>
+  <text y="173" class="hex">#CB8B45 · #734F3E · #E0B674</text>
+</g>
+<g transform="translate(24 8851)">
+  <title>273. Peacock Spider · #49809F / #C35747 / #353044</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#49809F"/>
+<rect x="60" width="40" height="75" fill="#C35747"/>
+<rect x="60" y="75" width="40" height="25" fill="#353044"/></g>
+  <text y="155" class="name">273. Peacock Spider</text>
+  <text y="173" class="hex">#49809F · #C35747 · #353044</text>
+</g>
+<g transform="translate(210 8851)">
+  <title>274. Scarlet Jade Vine · #C44C2A / #D97441 / #41493D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C44C2A"/>
+<rect x="60" width="40" height="75" fill="#D97441"/>
+<rect x="60" y="75" width="40" height="25" fill="#41493D"/></g>
+  <text y="155" class="name">274. Scarlet Jade Vine</text>
+  <text y="173" class="hex">#C44C2A · #D97441 · #41493D</text>
+</g>
+<g transform="translate(396 8851)">
+  <title>275. Parrot’s Beak · #D34A39 / #E1914E / #7D9986</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D34A39"/>
+<rect x="60" width="40" height="75" fill="#E1914E"/>
+<rect x="60" y="75" width="40" height="25" fill="#7D9986"/></g>
+  <text y="155" class="name">275. Parrot’s Beak</text>
+  <text y="173" class="hex">#D34A39 · #E1914E · #7D9986</text>
+</g>
+<g transform="translate(582 8851)">
+  <title>276. Red Passionflower · #AB313D / #DF5D54 / #37443A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AB313D"/>
+<rect x="60" width="40" height="75" fill="#DF5D54"/>
+<rect x="60" y="75" width="40" height="25" fill="#37443A"/></g>
+  <text y="155" class="name">276. Red Passionflower</text>
+  <text y="173" class="hex">#AB313D · #DF5D54 · #37443A</text>
+</g>
+<g transform="translate(768 8851)">
+  <title>277. Flame Lily · #C44F35 / #E18434 / #E3BB4D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C44F35"/>
+<rect x="60" width="40" height="75" fill="#E18434"/>
+<rect x="60" y="75" width="40" height="25" fill="#E3BB4D"/></g>
+  <text y="155" class="name">277. Flame Lily</text>
+  <text y="173" class="hex">#C44F35 · #E18434 · #E3BB4D</text>
+</g>
+<g transform="translate(954 8851)">
+  <title>278. Red Spider Lily · #C3373C / #DC6E76 / #555C38</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C3373C"/>
+<rect x="60" width="40" height="75" fill="#DC6E76"/>
+<rect x="60" y="75" width="40" height="25" fill="#555C38"/></g>
+  <text y="155" class="name">278. Red Spider Lily</text>
+  <text y="173" class="hex">#C3373C · #DC6E76 · #555C38</text>
+</g>
+<g transform="translate(24 9039)">
+  <title>279. Lobster Claw · #C63E46 / #E5B44C / #5A6D4C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C63E46"/>
+<rect x="60" width="40" height="75" fill="#E5B44C"/>
+<rect x="60" y="75" width="40" height="25" fill="#5A6D4C"/></g>
+  <text y="155" class="name">279. Lobster Claw</text>
+  <text y="173" class="hex">#C63E46 · #E5B44C · #5A6D4C</text>
+</g>
+<g transform="translate(210 9039)">
+  <title>280. Siam Tulip · #C56F96 / #E9BDD1 / #707243</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C56F96"/>
+<rect x="60" width="40" height="75" fill="#E9BDD1"/>
+<rect x="60" y="75" width="40" height="25" fill="#707243"/></g>
+  <text y="155" class="name">280. Siam Tulip</text>
+  <text y="173" class="hex">#C56F96 · #E9BDD1 · #707243</text>
+</g>
+<g transform="translate(396 9039)">
+  <title>281. Kahili Ginger · #E7C855 / #BA7943 / #7B8155</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E7C855"/>
+<rect x="60" width="40" height="75" fill="#BA7943"/>
+<rect x="60" y="75" width="40" height="25" fill="#7B8155"/></g>
+  <text y="155" class="name">281. Kahili Ginger</text>
+  <text y="173" class="hex">#E7C855 · #BA7943 · #7B8155</text>
+</g>
+<g transform="translate(582 9039)">
+  <title>282. Bleeding Heart Vine · #E0E4D7 / #C33742 / #7B825E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E0E4D7"/>
+<rect x="60" width="40" height="75" fill="#C33742"/>
+<rect x="60" y="75" width="40" height="25" fill="#7B825E"/></g>
+  <text y="155" class="name">282. Bleeding Heart Vine</text>
+  <text y="173" class="hex">#E0E4D7 · #C33742 · #7B825E</text>
+</g>
+<g transform="translate(768 9039)">
+  <title>283. Bleeding Heart · #C46A98 / #E2E2D6 / #557D48</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C46A98"/>
+<rect x="60" width="40" height="75" fill="#E2E2D6"/>
+<rect x="60" y="75" width="40" height="25" fill="#557D48"/></g>
+  <text y="155" class="name">283. Bleeding Heart</text>
+  <text y="173" class="hex">#C46A98 · #E2E2D6 · #557D48</text>
+</g>
+<g transform="translate(954 9039)">
+  <title>284. Poinsettia · #B43036 / #C74C4B / #68814A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B43036"/>
+<rect x="60" width="40" height="75" fill="#C74C4B"/>
+<rect x="60" y="75" width="40" height="25" fill="#68814A"/></g>
+  <text y="155" class="name">284. Poinsettia</text>
+  <text y="173" class="hex">#B43036 · #C74C4B · #68814A</text>
+</g>
+<g transform="translate(24 9227)">
+  <title>285. Yellow Foxglove · #DEC368 / #EADAB5 / #998250</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DEC368"/>
+<rect x="60" width="40" height="75" fill="#EADAB5"/>
+<rect x="60" y="75" width="40" height="25" fill="#998250"/></g>
+  <text y="155" class="name">285. Yellow Foxglove</text>
+  <text y="173" class="hex">#DEC368 · #EADAB5 · #998250</text>
+</g>
+<g transform="translate(210 9227)">
+  <title>286. Snapdragon · #D7668E / #E0A7B5 / #E0A954</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D7668E"/>
+<rect x="60" width="40" height="75" fill="#E0A7B5"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0A954"/></g>
+  <text y="155" class="name">286. Snapdragon</text>
+  <text y="173" class="hex">#D7668E · #E0A7B5 · #E0A954</text>
+</g>
+<g transform="translate(396 9227)">
+  <title>287. Toadflax · #E2CC6C / #CBA739 / #82875A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E2CC6C"/>
+<rect x="60" width="40" height="75" fill="#CBA739"/>
+<rect x="60" y="75" width="40" height="25" fill="#82875A"/></g>
+  <text y="155" class="name">287. Toadflax</text>
+  <text y="173" class="hex">#E2CC6C · #CBA739 · #82875A</text>
+</g>
+<g transform="translate(582 9227)">
+  <title>288. Bluebonnet · #5062A9 / #CFD0D6 / #627D51</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5062A9"/>
+<rect x="60" width="40" height="75" fill="#CFD0D6"/>
+<rect x="60" y="75" width="40" height="25" fill="#627D51"/></g>
+  <text y="155" class="name">288. Bluebonnet</text>
+  <text y="173" class="hex">#5062A9 · #CFD0D6 · #627D51</text>
+</g>
+<g transform="translate(768 9227)">
+  <title>289. Winter Aconite · #DCC146 / #7B894A / #E8D888</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DCC146"/>
+<rect x="60" width="40" height="75" fill="#7B894A"/>
+<rect x="60" y="75" width="40" height="25" fill="#E8D888"/></g>
+  <text y="155" class="name">289. Winter Aconite</text>
+  <text y="173" class="hex">#DCC146 · #7B894A · #E8D888</text>
+</g>
+<g transform="translate(954 9227)">
+  <title>290. Crown Imperial · #CE8F3E / #B55A30 / #586C43</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CE8F3E"/>
+<rect x="60" width="40" height="75" fill="#B55A30"/>
+<rect x="60" y="75" width="40" height="25" fill="#586C43"/></g>
+  <text y="155" class="name">290. Crown Imperial</text>
+  <text y="173" class="hex">#CE8F3E · #B55A30 · #586C43</text>
+</g>
+<g transform="translate(24 9415)">
+  <title>291. Yellow Flag Iris · #D5B44A / #DDD369 / #6A885A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D5B44A"/>
+<rect x="60" width="40" height="75" fill="#DDD369"/>
+<rect x="60" y="75" width="40" height="25" fill="#6A885A"/></g>
+  <text y="155" class="name">291. Yellow Flag Iris</text>
+  <text y="173" class="hex">#D5B44A · #DDD369 · #6A885A</text>
+</g>
+<g transform="translate(210 9415)">
+  <title>292. Japanese Iris · #7E579D / #A293C1 / #D8D172</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7E579D"/>
+<rect x="60" width="40" height="75" fill="#A293C1"/>
+<rect x="60" y="75" width="40" height="25" fill="#D8D172"/></g>
+  <text y="155" class="name">292. Japanese Iris</text>
+  <text y="173" class="hex">#7E579D · #A293C1 · #D8D172</text>
+</g>
+<g transform="translate(396 9415)">
+  <title>293. Tulip · #D4544E / #E8BB9F / #D7B25D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D4544E"/>
+<rect x="60" width="40" height="75" fill="#E8BB9F"/>
+<rect x="60" y="75" width="40" height="25" fill="#D7B25D"/></g>
+  <text y="155" class="name">293. Tulip</text>
+  <text y="173" class="hex">#D4544E · #E8BB9F · #D7B25D</text>
+</g>
+<g transform="translate(582 9415)">
+  <title>294. Waterlily Tulip · #E1D49C / #DF795A / #C7A452</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E1D49C"/>
+<rect x="60" width="40" height="75" fill="#DF795A"/>
+<rect x="60" y="75" width="40" height="25" fill="#C7A452"/></g>
+  <text y="155" class="name">294. Waterlily Tulip</text>
+  <text y="173" class="hex">#E1D49C · #DF795A · #C7A452</text>
+</g>
+<g transform="translate(768 9415)">
+  <title>295. Peony · #D780A9 / #E8BDCA / #D6984C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D780A9"/>
+<rect x="60" width="40" height="75" fill="#E8BDCA"/>
+<rect x="60" y="75" width="40" height="25" fill="#D6984C"/></g>
+  <text y="155" class="name">295. Peony</text>
+  <text y="173" class="hex">#D780A9 · #E8BDCA · #D6984C</text>
+</g>
+<g transform="translate(954 9415)">
+  <title>296. Apothecary Rose · #AD527D / #E2889D / #D2AA56</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AD527D"/>
+<rect x="60" width="40" height="75" fill="#E2889D"/>
+<rect x="60" y="75" width="40" height="25" fill="#D2AA56"/></g>
+  <text y="155" class="name">296. Apothecary Rose</text>
+  <text y="173" class="hex">#AD527D · #E2889D · #D2AA56</text>
+</g>
+<g transform="translate(24 9603)">
+  <title>297. Bougainvillea · #B7608A / #CE93A9 / #E0CBA4</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B7608A"/>
+<rect x="60" width="40" height="75" fill="#CE93A9"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0CBA4"/></g>
+  <text y="155" class="name">297. Bougainvillea</text>
+  <text y="173" class="hex">#B7608A · #CE93A9 · #E0CBA4</text>
+</g>
+<g transform="translate(210 9603)">
+  <title>298. Hibiscus · #C5475B / #F69668 / #9C3A47</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C5475B"/>
+<rect x="60" width="40" height="75" fill="#F69668"/>
+<rect x="60" y="75" width="40" height="25" fill="#9C3A47"/></g>
+  <text y="155" class="name">298. Hibiscus</text>
+  <text y="173" class="hex">#C5475B · #F69668 · #9C3A47</text>
+</g>
+<g transform="translate(396 9603)">
+  <title>299. Blue Pimpernel · #5267B5 / #8A8EC8 / #CF9F6E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#5267B5"/>
+<rect x="60" width="40" height="75" fill="#8A8EC8"/>
+<rect x="60" y="75" width="40" height="25" fill="#CF9F6E"/></g>
+  <text y="155" class="name">299. Blue Pimpernel</text>
+  <text y="173" class="hex">#5267B5 · #8A8EC8 · #CF9F6E</text>
+</g>
+<g transform="translate(582 9603)">
+  <title>300. Scarlet Pimpernel · #D78561 / #E6AA87 / #815952</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D78561"/>
+<rect x="60" width="40" height="75" fill="#E6AA87"/>
+<rect x="60" y="75" width="40" height="25" fill="#815952"/></g>
+  <text y="155" class="name">300. Scarlet Pimpernel</text>
+  <text y="173" class="hex">#D78561 · #E6AA87 · #815952</text>
+</g>
+<g transform="translate(768 9603)">
+  <title>301. Gentian · #3E5EA3 / #6379B3 / #6F8C4B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3E5EA3"/>
+<rect x="60" width="40" height="75" fill="#6379B3"/>
+<rect x="60" y="75" width="40" height="25" fill="#6F8C4B"/></g>
+  <text y="155" class="name">301. Gentian</text>
+  <text y="173" class="hex">#3E5EA3 · #6379B3 · #6F8C4B</text>
+</g>
+<g transform="translate(954 9603)">
+  <title>302. Bachelor’s Button · #4662B1 / #7B87C9 / #53556E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4662B1"/>
+<rect x="60" width="40" height="75" fill="#7B87C9"/>
+<rect x="60" y="75" width="40" height="25" fill="#53556E"/></g>
+  <text y="155" class="name">302. Bachelor’s Button</text>
+  <text y="173" class="hex">#4662B1 · #7B87C9 · #53556E</text>
+</g>
+<g transform="translate(24 9791)">
+  <title>303. Crimson Columbine · #C0564A / #E5C365 / #71875B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C0564A"/>
+<rect x="60" width="40" height="75" fill="#E5C365"/>
+<rect x="60" y="75" width="40" height="25" fill="#71875B"/></g>
+  <text y="155" class="name">303. Crimson Columbine</text>
+  <text y="173" class="hex">#C0564A · #E5C365 · #71875B</text>
+</g>
+<g transform="translate(210 9791)">
+  <title>304. Cosmos · #BE76B4 / #DDA6E0 / #E9BB47</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BE76B4"/>
+<rect x="60" width="40" height="75" fill="#DDA6E0"/>
+<rect x="60" y="75" width="40" height="25" fill="#E9BB47"/></g>
+  <text y="155" class="name">304. Cosmos</text>
+  <text y="173" class="hex">#BE76B4 · #DDA6E0 · #E9BB47</text>
+</g>
+<g transform="translate(396 9791)">
+  <title>305. Blanket Flower · #AB632A / #E4AB4B / #753F2F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#AB632A"/>
+<rect x="60" width="40" height="75" fill="#E4AB4B"/>
+<rect x="60" y="75" width="40" height="25" fill="#753F2F"/></g>
+  <text y="155" class="name">305. Blanket Flower</text>
+  <text y="173" class="hex">#AB632A · #E4AB4B · #753F2F</text>
+</g>
+<g transform="translate(582 9791)">
+  <title>306. Treasure Flower · #DAAC39 / #985F3A / #5C4C43</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DAAC39"/>
+<rect x="60" width="40" height="75" fill="#985F3A"/>
+<rect x="60" y="75" width="40" height="25" fill="#5C4C43"/></g>
+  <text y="155" class="name">306. Treasure Flower</text>
+  <text y="173" class="hex">#DAAC39 · #985F3A · #5C4C43</text>
+</g>
+<g transform="translate(768 9791)">
+  <title>307. Livingstone Daisy · #DE80A1 / #D4BC9B / #785161</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DE80A1"/>
+<rect x="60" width="40" height="75" fill="#D4BC9B"/>
+<rect x="60" y="75" width="40" height="25" fill="#785161"/></g>
+  <text y="155" class="name">307. Livingstone Daisy</text>
+  <text y="173" class="hex">#DE80A1 · #D4BC9B · #785161</text>
+</g>
+<g transform="translate(954 9791)">
+  <title>308. Corn Poppy · #D64F45 / #524232 / #DA9475</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D64F45"/>
+<rect x="60" width="40" height="75" fill="#524232"/>
+<rect x="60" y="75" width="40" height="25" fill="#DA9475"/></g>
+  <text y="155" class="name">308. Corn Poppy</text>
+  <text y="173" class="hex">#D64F45 · #524232 · #DA9475</text>
+</g>
+<g transform="translate(24 9979)">
+  <title>309. Oriental Poppy · #DB6F5A / #5D353D / #E89A7F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DB6F5A"/>
+<rect x="60" width="40" height="75" fill="#5D353D"/>
+<rect x="60" y="75" width="40" height="25" fill="#E89A7F"/></g>
+  <text y="155" class="name">309. Oriental Poppy</text>
+  <text y="173" class="hex">#DB6F5A · #5D353D · #E89A7F</text>
+</g>
+<g transform="translate(210 9979)">
+  <title>310. White Water Lily · #E4E2D8 / #E4B954 / #5E7451</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E4E2D8"/>
+<rect x="60" width="40" height="75" fill="#E4B954"/>
+<rect x="60" y="75" width="40" height="25" fill="#5E7451"/></g>
+  <text y="155" class="name">310. White Water Lily</text>
+  <text y="173" class="hex">#E4E2D8 · #E4B954 · #5E7451</text>
+</g>
+<g transform="translate(396 9979)">
+  <title>311. Lady’s Slipper Orchid · #CDAE4F / #6F5645 / #A4965B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CDAE4F"/>
+<rect x="60" width="40" height="75" fill="#6F5645"/>
+<rect x="60" y="75" width="40" height="25" fill="#A4965B"/></g>
+  <text y="155" class="name">311. Lady’s Slipper Orchid</text>
+  <text y="173" class="hex">#CDAE4F · #6F5645 · #A4965B</text>
+</g>
+<g transform="translate(582 9979)">
+  <title>312. Orchid Cactus · #C83F49 / #E57D69 / #EBC99E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C83F49"/>
+<rect x="60" width="40" height="75" fill="#E57D69"/>
+<rect x="60" y="75" width="40" height="25" fill="#EBC99E"/></g>
+  <text y="155" class="name">312. Orchid Cactus</text>
+  <text y="173" class="hex">#C83F49 · #E57D69 · #EBC99E</text>
+</g>
+<g transform="translate(768 9979)">
+  <title>313. Pincushion Protea · #D68643 / #C2604A / #DBAB72</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D68643"/>
+<rect x="60" width="40" height="75" fill="#C2604A"/>
+<rect x="60" y="75" width="40" height="25" fill="#DBAB72"/></g>
+  <text y="155" class="name">313. Pincushion Protea</text>
+  <text y="173" class="hex">#D68643 · #C2604A · #DBAB72</text>
+</g>
+<g transform="translate(954 9979)">
+  <title>314. Waratah · #BD334A / #D17374 / #797F57</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BD334A"/>
+<rect x="60" width="40" height="75" fill="#D17374"/>
+<rect x="60" y="75" width="40" height="25" fill="#797F57"/></g>
+  <text y="155" class="name">314. Waratah</text>
+  <text y="173" class="hex">#BD334A · #D17374 · #797F57</text>
+</g>
+<g transform="translate(24 10167)">
+  <title>315. Kangaroo Paw · #9D464E / #6A8C4F / #ABB655</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9D464E"/>
+<rect x="60" width="40" height="75" fill="#6A8C4F"/>
+<rect x="60" y="75" width="40" height="25" fill="#ABB655"/></g>
+  <text y="155" class="name">315. Kangaroo Paw</text>
+  <text y="173" class="hex">#9D464E · #6A8C4F · #ABB655</text>
+</g>
+<g transform="translate(210 10167)">
+  <title>316. Paper Daisy · #E5B144 / #D48140 / #EFD6A3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E5B144"/>
+<rect x="60" width="40" height="75" fill="#D48140"/>
+<rect x="60" y="75" width="40" height="25" fill="#EFD6A3"/></g>
+  <text y="155" class="name">316. Paper Daisy</text>
+  <text y="173" class="hex">#E5B144 · #D48140 · #EFD6A3</text>
+</g>
+<g transform="translate(396 10167)">
+  <title>317. Red Hot Poker · #D17241 / #DCA755 / #E2C78D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D17241"/>
+<rect x="60" width="40" height="75" fill="#DCA755"/>
+<rect x="60" y="75" width="40" height="25" fill="#E2C78D"/></g>
+  <text y="155" class="name">317. Red Hot Poker</text>
+  <text y="173" class="hex">#D17241 · #DCA755 · #E2C78D</text>
+</g>
+<g transform="translate(582 10167)">
+  <title>318. Candelabra Aloe · #CC643D / #DC8969 / #6D8964</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CC643D"/>
+<rect x="60" width="40" height="75" fill="#DC8969"/>
+<rect x="60" y="75" width="40" height="25" fill="#6D8964"/></g>
+  <text y="155" class="name">318. Candelabra Aloe</text>
+  <text y="173" class="hex">#CC643D · #DC8969 · #6D8964</text>
+</g>
+<g transform="translate(768 10167)">
+  <title>319. Globe Amaranth · #BA518C / #8F4567 / #CDAA87</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BA518C"/>
+<rect x="60" width="40" height="75" fill="#8F4567"/>
+<rect x="60" y="75" width="40" height="25" fill="#CDAA87"/></g>
+  <text y="155" class="name">319. Globe Amaranth</text>
+  <text y="173" class="hex">#BA518C · #8F4567 · #CDAA87</text>
+</g>
+<g transform="translate(954 10167)">
+  <title>320. Celosia · #CB4766 / #E08290 / #8A4456</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CB4766"/>
+<rect x="60" width="40" height="75" fill="#E08290"/>
+<rect x="60" y="75" width="40" height="25" fill="#8A4456"/></g>
+  <text y="155" class="name">320. Celosia</text>
+  <text y="173" class="hex">#CB4766 · #E08290 · #8A4456</text>
+</g>
+<g transform="translate(24 10355)">
+  <title>321. Deptford Pink · #B35DA0 / #D19BC6 / #727A54</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B35DA0"/>
+<rect x="60" width="40" height="75" fill="#D19BC6"/>
+<rect x="60" y="75" width="40" height="25" fill="#727A54"/></g>
+  <text y="155" class="name">321. Deptford Pink</text>
+  <text y="173" class="hex">#B35DA0 · #D19BC6 · #727A54</text>
+</g>
+<g transform="translate(210 10355)">
+  <title>322. Golden Columbine · #DECD59 / #E4E090 / #849552</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DECD59"/>
+<rect x="60" width="40" height="75" fill="#E4E090"/>
+<rect x="60" y="75" width="40" height="25" fill="#849552"/></g>
+  <text y="155" class="name">322. Golden Columbine</text>
+  <text y="173" class="hex">#DECD59 · #E4E090 · #849552</text>
+</g>
+<g transform="translate(396 10355)">
+  <title>323. Cyclamen · #BF7DBA / #DDBBDC / #914C7F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BF7DBA"/>
+<rect x="60" width="40" height="75" fill="#DDBBDC"/>
+<rect x="60" y="75" width="40" height="25" fill="#914C7F"/></g>
+  <text y="155" class="name">323. Cyclamen</text>
+  <text y="173" class="hex">#BF7DBA · #DDBBDC · #914C7F</text>
+</g>
+<g transform="translate(582 10355)">
+  <title>324. Ylang-ylang · #CBBC53 / #A1A553 / #E0D18A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CBBC53"/>
+<rect x="60" width="40" height="75" fill="#A1A553"/>
+<rect x="60" y="75" width="40" height="25" fill="#E0D18A"/></g>
+  <text y="155" class="name">324. Ylang-ylang</text>
+  <text y="173" class="hex">#CBBC53 · #A1A553 · #E0D18A</text>
+</g>
+<g transform="translate(768 10355)">
+  <title>325. Rafflesia · #A24E42 / #CF8A7B / #673538</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A24E42"/>
+<rect x="60" width="40" height="75" fill="#CF8A7B"/>
+<rect x="60" y="75" width="40" height="25" fill="#673538"/></g>
+  <text y="155" class="name">325. Rafflesia</text>
+  <text y="173" class="hex">#A24E42 · #CF8A7B · #673538</text>
+</g>
+<g transform="translate(954 10355)">
+  <title>326. Long-tailed Sylph · #367D78 / #4168A5 / #665A74</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#367D78"/>
+<rect x="60" width="40" height="75" fill="#4168A5"/>
+<rect x="60" y="75" width="40" height="25" fill="#665A74"/></g>
+  <text y="155" class="name">326. Long-tailed Sylph</text>
+  <text y="173" class="hex">#367D78 · #4168A5 · #665A74</text>
+</g>
+<g transform="translate(24 10543)">
+  <title>327. King Bird-of-paradise · #B84A3C / #E1D4D5 / #688C52</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B84A3C"/>
+<rect x="60" width="40" height="75" fill="#E1D4D5"/>
+<rect x="60" y="75" width="40" height="25" fill="#688C52"/></g>
+  <text y="155" class="name">327. King Bird-of-paradise</text>
+  <text y="173" class="hex">#B84A3C · #E1D4D5 · #688C52</text>
+</g>
+<g transform="translate(210 10543)">
+  <title>328. Temminck’s Tragopan · #B25244 / #B3A5A0 / #5A79B2</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B25244"/>
+<rect x="60" width="40" height="75" fill="#B3A5A0"/>
+<rect x="60" y="75" width="40" height="25" fill="#5A79B2"/></g>
+  <text y="155" class="name">328. Temminck’s Tragopan</text>
+  <text y="173" class="hex">#B25244 · #B3A5A0 · #5A79B2</text>
+</g>
+<g transform="translate(396 10543)">
+  <title>329. Red-legged Honeycreeper · #4562A5 / #2B313C / #B86861</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#4562A5"/>
+<rect x="60" width="40" height="75" fill="#2B313C"/>
+<rect x="60" y="75" width="40" height="25" fill="#B86861"/></g>
+  <text y="155" class="name">329. Red-legged Honeycreeper</text>
+  <text y="173" class="hex">#4562A5 · #2B313C · #B86861</text>
+</g>
+<g transform="translate(582 10543)">
+  <title>330. Black-capped Lory · #B25252 / #4A5895 / #5D7F53</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B25252"/>
+<rect x="60" width="40" height="75" fill="#4A5895"/>
+<rect x="60" y="75" width="40" height="25" fill="#5D7F53"/></g>
+  <text y="155" class="name">330. Black-capped Lory</text>
+  <text y="173" class="hex">#B25252 · #4A5895 · #5D7F53</text>
+</g>
+<g transform="translate(768 10543)">
+  <title>331. Harlequin Tuskfish · #CCC7BF / #D97859 / #648DAF</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CCC7BF"/>
+<rect x="60" width="40" height="75" fill="#D97859"/>
+<rect x="60" y="75" width="40" height="25" fill="#648DAF"/></g>
+  <text y="155" class="name">331. Harlequin Tuskfish</text>
+  <text y="173" class="hex">#CCC7BF · #D97859 · #648DAF</text>
+</g>
+<g transform="translate(954 10543)">
+  <title>332. Warty Frogfish · #CFB2AA / #AC5652 / #876E6B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CFB2AA"/>
+<rect x="60" width="40" height="75" fill="#AC5652"/>
+<rect x="60" y="75" width="40" height="25" fill="#876E6B"/></g>
+  <text y="155" class="name">332. Warty Frogfish</text>
+  <text y="173" class="hex">#CFB2AA · #AC5652 · #876E6B</text>
+</g>
+<g transform="translate(24 10731)">
+  <title>333. Longhorn Cowfish · #C7B55E / #8C999C / #847B4F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C7B55E"/>
+<rect x="60" width="40" height="75" fill="#8C999C"/>
+<rect x="60" y="75" width="40" height="25" fill="#847B4F"/></g>
+  <text y="155" class="name">333. Longhorn Cowfish</text>
+  <text y="173" class="hex">#C7B55E · #8C999C · #847B4F</text>
+</g>
+<g transform="translate(210 10731)">
+  <title>334. Royal Gramma · #733B84 / #D4B140 / #A26380</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#733B84"/>
+<rect x="60" width="40" height="75" fill="#D4B140"/>
+<rect x="60" y="75" width="40" height="25" fill="#A26380"/></g>
+  <text y="155" class="name">334. Royal Gramma</text>
+  <text y="173" class="hex">#733B84 · #D4B140 · #A26380</text>
+</g>
+<g transform="translate(396 10731)">
+  <title>335. Orchid Dottyback · #A867A7 / #72407D / #C58EB3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A867A7"/>
+<rect x="60" width="40" height="75" fill="#72407D"/>
+<rect x="60" y="75" width="40" height="25" fill="#C58EB3"/></g>
+  <text y="155" class="name">335. Orchid Dottyback</text>
+  <text y="173" class="hex">#A867A7 · #72407D · #C58EB3</text>
+</g>
+<g transform="translate(582 10731)">
+  <title>336. Clown Nudibranch · #D7D4C3 / #D28243 / #946D5F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D7D4C3"/>
+<rect x="60" width="40" height="75" fill="#D28243"/>
+<rect x="60" y="75" width="40" height="25" fill="#946D5F"/></g>
+  <text y="155" class="name">336. Clown Nudibranch</text>
+  <text y="173" class="hex">#D7D4C3 · #D28243 · #946D5F</text>
+</g>
+<g transform="translate(768 10731)">
+  <title>337. Goniobranchus aureopurpureus · #D4D3D3 / #C2A64D / #77538C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D4D3D3"/>
+<rect x="60" width="40" height="75" fill="#C2A64D"/>
+<rect x="60" y="75" width="40" height="25" fill="#77538C"/></g>
+  <text y="155" class="name">337. Goniobranchus aureopurpureus</text>
+  <text y="173" class="hex">#D4D3D3 · #C2A64D · #77538C</text>
+</g>
+<g transform="translate(954 10731)">
+  <title>338. Orange-peel Doris · #D89D47 / #E5B273 / #9D7446</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D89D47"/>
+<rect x="60" width="40" height="75" fill="#E5B273"/>
+<rect x="60" y="75" width="40" height="25" fill="#9D7446"/></g>
+  <text y="155" class="name">338. Orange-peel Doris</text>
+  <text y="173" class="hex">#D89D47 · #E5B273 · #9D7446</text>
+</g>
+<g transform="translate(24 10919)">
+  <title>339. Spanish Shawl · #84538E / #D77E46 / #BB626E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#84538E"/>
+<rect x="60" width="40" height="75" fill="#D77E46"/>
+<rect x="60" y="75" width="40" height="25" fill="#BB626E"/></g>
+  <text y="155" class="name">339. Spanish Shawl</text>
+  <text y="173" class="hex">#84538E · #D77E46 · #BB626E</text>
+</g>
+<g transform="translate(210 10919)">
+  <title>340. Christmas Tree Worm · #C16E61 / #D9A46D / #654C5A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C16E61"/>
+<rect x="60" width="40" height="75" fill="#D9A46D"/>
+<rect x="60" y="75" width="40" height="25" fill="#654C5A"/></g>
+  <text y="155" class="name">340. Christmas Tree Worm</text>
+  <text y="173" class="hex">#C16E61 · #D9A46D · #654C5A</text>
+</g>
+<g transform="translate(396 10919)">
+  <title>341. Dyeing Dart Frog · #3C4257 / #C1B747 / #6E8B95</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#3C4257"/>
+<rect x="60" width="40" height="75" fill="#C1B747"/>
+<rect x="60" y="75" width="40" height="25" fill="#6E8B95"/></g>
+  <text y="155" class="name">341. Dyeing Dart Frog</text>
+  <text y="173" class="hex">#3C4257 · #C1B747 · #6E8B95</text>
+</g>
+<g transform="translate(582 10919)">
+  <title>342. Rainbow Agama · #545E7E / #CC7A49 / #8E7A65</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#545E7E"/>
+<rect x="60" width="40" height="75" fill="#CC7A49"/>
+<rect x="60" y="75" width="40" height="25" fill="#8E7A65"/></g>
+  <text y="155" class="name">342. Rainbow Agama</text>
+  <text y="173" class="hex">#545E7E · #CC7A49 · #8E7A65</text>
+</g>
+<g transform="translate(768 10919)">
+  <title>343. Madagascan Comet Moth · #D2B25D / #B6734F / #91735F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D2B25D"/>
+<rect x="60" width="40" height="75" fill="#B6734F"/>
+<rect x="60" y="75" width="40" height="25" fill="#91735F"/></g>
+  <text y="155" class="name">343. Madagascan Comet Moth</text>
+  <text y="173" class="hex">#D2B25D · #B6734F · #91735F</text>
+</g>
+<g transform="translate(954 10919)">
+  <title>344. Elephant Hawk-moth · #A58367 / #B86680 / #CCA38B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A58367"/>
+<rect x="60" width="40" height="75" fill="#B86680"/>
+<rect x="60" y="75" width="40" height="25" fill="#CCA38B"/></g>
+  <text y="155" class="name">344. Elephant Hawk-moth</text>
+  <text y="173" class="hex">#A58367 · #B86680 · #CCA38B</text>
+</g>
+<g transform="translate(24 11107)">
+  <title>345. Rainbow Grasshopper · #49576F / #D3884E / #D7BC94</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#49576F"/>
+<rect x="60" width="40" height="75" fill="#D3884E"/>
+<rect x="60" y="75" width="40" height="25" fill="#D7BC94"/></g>
+  <text y="155" class="name">345. Rainbow Grasshopper</text>
+  <text y="173" class="hex">#49576F · #D3884E · #D7BC94</text>
+</g>
+<g transform="translate(210 11107)">
+  <title>346. Painted Grasshopper · #60785C / #D9B366 / #A9797B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#60785C"/>
+<rect x="60" width="40" height="75" fill="#D9B366"/>
+<rect x="60" y="75" width="40" height="25" fill="#A9797B"/></g>
+  <text y="155" class="name">346. Painted Grasshopper</text>
+  <text y="173" class="hex">#60785C · #D9B366 · #A9797B</text>
+</g>
+<g transform="translate(396 11107)">
+  <title>347. Painted Bat · #CD8444 / #444A3E / #A2935C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CD8444"/>
+<rect x="60" width="40" height="75" fill="#444A3E"/>
+<rect x="60" y="75" width="40" height="25" fill="#A2935C"/></g>
+  <text y="155" class="name">347. Painted Bat</text>
+  <text y="173" class="hex">#CD8444 · #444A3E · #A2935C</text>
+</g>
+<g transform="translate(582 11107)">
+  <title>348. Sicilian Bergamot · #A8AD3F / #446832 / #E3CB79</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A8AD3F"/>
+<rect x="60" width="40" height="75" fill="#446832"/>
+<rect x="60" y="75" width="40" height="25" fill="#E3CB79"/></g>
+  <text y="155" class="name">348. Sicilian Bergamot</text>
+  <text y="173" class="hex">#A8AD3F · #446832 · #E3CB79</text>
+</g>
+<g transform="translate(768 11107)">
+  <title>349. Sicilian Lemon · #F3CB36 / #396C34 / #F9E6A3</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F3CB36"/>
+<rect x="60" width="40" height="75" fill="#396C34"/>
+<rect x="60" y="75" width="40" height="25" fill="#F9E6A3"/></g>
+  <text y="155" class="name">349. Sicilian Lemon</text>
+  <text y="173" class="hex">#F3CB36 · #396C34 · #F9E6A3</text>
+</g>
+<g transform="translate(954 11107)">
+  <title>350. Grapefruit · #E96D78 / #F2AA52 / #F9E0C1</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E96D78"/>
+<rect x="60" width="40" height="75" fill="#F2AA52"/>
+<rect x="60" y="75" width="40" height="25" fill="#F9E0C1"/></g>
+  <text y="155" class="name">350. Grapefruit</text>
+  <text y="173" class="hex">#E96D78 · #F2AA52 · #F9E0C1</text>
+</g>
+<g transform="translate(24 11295)">
+  <title>351. Mandarin · #F48A26 / #F9BD60 / #426C36</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F48A26"/>
+<rect x="60" width="40" height="75" fill="#F9BD60"/>
+<rect x="60" y="75" width="40" height="25" fill="#426C36"/></g>
+  <text y="155" class="name">351. Mandarin</text>
+  <text y="173" class="hex">#F48A26 · #F9BD60 · #426C36</text>
+</g>
+<g transform="translate(210 11295)">
+  <title>352. Kumquat · #F39422 / #E76A1B / #54773A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F39422"/>
+<rect x="60" width="40" height="75" fill="#E76A1B"/>
+<rect x="60" y="75" width="40" height="25" fill="#54773A"/></g>
+  <text y="155" class="name">352. Kumquat</text>
+  <text y="173" class="hex">#F39422 · #E76A1B · #54773A</text>
+</g>
+<g transform="translate(396 11295)">
+  <title>353. Raspberry · #CB285C / #E96085 / #792348</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CB285C"/>
+<rect x="60" width="40" height="75" fill="#E96085"/>
+<rect x="60" y="75" width="40" height="25" fill="#792348"/></g>
+  <text y="155" class="name">353. Raspberry</text>
+  <text y="173" class="hex">#CB285C · #E96085 · #792348</text>
+</g>
+<g transform="translate(582 11295)">
+  <title>354. Yellow Raspberry · #F4B83D / #FAD884 / #B86C27</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F4B83D"/>
+<rect x="60" width="40" height="75" fill="#FAD884"/>
+<rect x="60" y="75" width="40" height="25" fill="#B86C27"/></g>
+  <text y="155" class="name">354. Yellow Raspberry</text>
+  <text y="173" class="hex">#F4B83D · #FAD884 · #B86C27</text>
+</g>
+<g transform="translate(768 11295)">
+  <title>355. Strawberry · #E4363A / #4D8036 / #F8AE9C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E4363A"/>
+<rect x="60" width="40" height="75" fill="#4D8036"/>
+<rect x="60" y="75" width="40" height="25" fill="#F8AE9C"/></g>
+  <text y="155" class="name">355. Strawberry</text>
+  <text y="173" class="hex">#E4363A · #4D8036 · #F8AE9C</text>
+</g>
+<g transform="translate(954 11295)">
+  <title>356. Green Apple · #8EB839 / #C7D961 / #F2EAC7</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8EB839"/>
+<rect x="60" width="40" height="75" fill="#C7D961"/>
+<rect x="60" y="75" width="40" height="25" fill="#F2EAC7"/></g>
+  <text y="155" class="name">356. Green Apple</text>
+  <text y="173" class="hex">#8EB839 · #C7D961 · #F2EAC7</text>
+</g>
+<g transform="translate(24 11483)">
+  <title>357. Passion Fruit · #652D57 / #EDA42A / #302826</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#652D57"/>
+<rect x="60" width="40" height="75" fill="#EDA42A"/>
+<rect x="60" y="75" width="40" height="25" fill="#302826"/></g>
+  <text y="155" class="name">357. Passion Fruit</text>
+  <text y="173" class="hex">#652D57 · #EDA42A · #302826</text>
+</g>
+<g transform="translate(210 11483)">
+  <title>358. Pineapple · #EBC33C / #527347 / #9B6330</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#EBC33C"/>
+<rect x="60" width="40" height="75" fill="#527347"/>
+<rect x="60" y="75" width="40" height="25" fill="#9B6330"/></g>
+  <text y="155" class="name">358. Pineapple</text>
+  <text y="173" class="hex">#EBC33C · #527347 · #9B6330</text>
+</g>
+<g transform="translate(396 11483)">
+  <title>359. Papaya · #F58042 / #F7AD50 / #372A2A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F58042"/>
+<rect x="60" width="40" height="75" fill="#F7AD50"/>
+<rect x="60" y="75" width="40" height="25" fill="#372A2A"/></g>
+  <text y="155" class="name">359. Papaya</text>
+  <text y="173" class="hex">#F58042 · #F7AD50 · #372A2A</text>
+</g>
+<g transform="translate(582 11483)">
+  <title>360. Rose Hip · #C83D2D / #5C783C / #E58A4A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C83D2D"/>
+<rect x="60" width="40" height="75" fill="#5C783C"/>
+<rect x="60" y="75" width="40" height="25" fill="#E58A4A"/></g>
+  <text y="155" class="name">360. Rose Hip</text>
+  <text y="173" class="hex">#C83D2D · #5C783C · #E58A4A</text>
+</g>
+<g transform="translate(768 11483)">
+  <title>361. Pink Dragon Fruit · #D83A7F / #F4E9EF / #658743</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D83A7F"/>
+<rect x="60" width="40" height="75" fill="#F4E9EF"/>
+<rect x="60" y="75" width="40" height="25" fill="#658743"/></g>
+  <text y="155" class="name">361. Pink Dragon Fruit</text>
+  <text y="173" class="hex">#D83A7F · #F4E9EF · #658743</text>
+</g>
+<g transform="translate(954 11483)">
+  <title>362. Yellow Dragon Fruit · #F4C53C / #F4ECD6 / #343237</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F4C53C"/>
+<rect x="60" width="40" height="75" fill="#F4ECD6"/>
+<rect x="60" y="75" width="40" height="25" fill="#343237"/></g>
+  <text y="155" class="name">362. Yellow Dragon Fruit</text>
+  <text y="173" class="hex">#F4C53C · #F4ECD6 · #343237</text>
+</g>
+<g transform="translate(24 11671)">
+  <title>363. Plantain · #779536 / #DCC04D / #76503C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#779536"/>
+<rect x="60" width="40" height="75" fill="#DCC04D"/>
+<rect x="60" y="75" width="40" height="25" fill="#76503C"/></g>
+  <text y="155" class="name">363. Plantain</text>
+  <text y="173" class="hex">#779536 · #DCC04D · #76503C</text>
+</g>
+<g transform="translate(210 11671)">
+  <title>364. Melon · #F2A96F / #D4BE91 / #7B8B5B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F2A96F"/>
+<rect x="60" width="40" height="75" fill="#D4BE91"/>
+<rect x="60" y="75" width="40" height="25" fill="#7B8B5B"/></g>
+  <text y="155" class="name">364. Melon</text>
+  <text y="173" class="hex">#F2A96F · #D4BE91 · #7B8B5B</text>
+</g>
+<g transform="translate(396 11671)">
+  <title>365. Young Coconut · #85A04B / #F0E5CB / #5F693C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#85A04B"/>
+<rect x="60" width="40" height="75" fill="#F0E5CB"/>
+<rect x="60" y="75" width="40" height="25" fill="#5F693C"/></g>
+  <text y="155" class="name">365. Young Coconut</text>
+  <text y="173" class="hex">#85A04B · #F0E5CB · #5F693C</text>
+</g>
+<g transform="translate(582 11671)">
+  <title>366. Sour Cherry · #A5213C / #DB5364 / #566736</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A5213C"/>
+<rect x="60" width="40" height="75" fill="#DB5364"/>
+<rect x="60" y="75" width="40" height="25" fill="#566736"/></g>
+  <text y="155" class="name">366. Sour Cherry</text>
+  <text y="173" class="hex">#A5213C · #DB5364 · #566736</text>
+</g>
+<g transform="translate(768 11671)">
+  <title>367. Sweet Cherry · #7A243F / #BD374E / #74834C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#7A243F"/>
+<rect x="60" width="40" height="75" fill="#BD374E"/>
+<rect x="60" y="75" width="40" height="25" fill="#74834C"/></g>
+  <text y="155" class="name">367. Sweet Cherry</text>
+  <text y="173" class="hex">#7A243F · #BD374E · #74834C</text>
+</g>
+<g transform="translate(954 11671)">
+  <title>368. Green Grapes · #9BAD42 / #C6D275 / #596D31</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#9BAD42"/>
+<rect x="60" width="40" height="75" fill="#C6D275"/>
+<rect x="60" y="75" width="40" height="25" fill="#596D31"/></g>
+  <text y="155" class="name">368. Green Grapes</text>
+  <text y="173" class="hex">#9BAD42 · #C6D275 · #596D31</text>
+</g>
+<g transform="translate(24 11859)">
+  <title>369. White Grapes · #DEC986 / #ADBB68 / #7E6940</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DEC986"/>
+<rect x="60" width="40" height="75" fill="#ADBB68"/>
+<rect x="60" y="75" width="40" height="25" fill="#7E6940"/></g>
+  <text y="155" class="name">369. White Grapes</text>
+  <text y="173" class="hex">#DEC986 · #ADBB68 · #7E6940</text>
+</g>
+<g transform="translate(210 11859)">
+  <title>370. Blackberry · #392B50 / #7A345F / #719549</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#392B50"/>
+<rect x="60" width="40" height="75" fill="#7A345F"/>
+<rect x="60" y="75" width="40" height="25" fill="#719549"/></g>
+  <text y="155" class="name">370. Blackberry</text>
+  <text y="173" class="hex">#392B50 · #7A345F · #719549</text>
+</g>
+<g transform="translate(396 11859)">
+  <title>371. Rowan Berry · #E45833 / #B9372A / #617D3F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E45833"/>
+<rect x="60" width="40" height="75" fill="#B9372A"/>
+<rect x="60" y="75" width="40" height="25" fill="#617D3F"/></g>
+  <text y="155" class="name">371. Rowan Berry</text>
+  <text y="173" class="hex">#E45833 · #B9372A · #617D3F</text>
+</g>
+<g transform="translate(582 11859)">
+  <title>372. Nectarine · #E65F43 / #F6AA57 / #993B44</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E65F43"/>
+<rect x="60" width="40" height="75" fill="#F6AA57"/>
+<rect x="60" y="75" width="40" height="25" fill="#993B44"/></g>
+  <text y="155" class="name">372. Nectarine</text>
+  <text y="173" class="hex">#E65F43 · #F6AA57 · #993B44</text>
+</g>
+<g transform="translate(768 11859)">
+  <title>373. Peach · #F2A27B / #F9CC9A / #CE606B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F2A27B"/>
+<rect x="60" width="40" height="75" fill="#F9CC9A"/>
+<rect x="60" y="75" width="40" height="25" fill="#CE606B"/></g>
+  <text y="155" class="name">373. Peach</text>
+  <text y="173" class="hex">#F2A27B · #F9CC9A · #CE606B</text>
+</g>
+<g transform="translate(954 11859)">
+  <title>374. Pear · #B3B753 / #E8D8A2 / #816345</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B3B753"/>
+<rect x="60" width="40" height="75" fill="#E8D8A2"/>
+<rect x="60" y="75" width="40" height="25" fill="#816345"/></g>
+  <text y="155" class="name">374. Pear</text>
+  <text y="173" class="hex">#B3B753 · #E8D8A2 · #816345</text>
+</g>
+<g transform="translate(24 12047)">
+  <title>375. Red Currant · #D13C4E / #EE8490 / #627A3F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D13C4E"/>
+<rect x="60" width="40" height="75" fill="#EE8490"/>
+<rect x="60" y="75" width="40" height="25" fill="#627A3F"/></g>
+  <text y="155" class="name">375. Red Currant</text>
+  <text y="173" class="hex">#D13C4E · #EE8490 · #627A3F</text>
+</g>
+<g transform="translate(210 12047)">
+  <title>376. Yellow Currant · #D6AF4F / #F2D57C / #798648</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D6AF4F"/>
+<rect x="60" width="40" height="75" fill="#F2D57C"/>
+<rect x="60" y="75" width="40" height="25" fill="#798648"/></g>
+  <text y="155" class="name">376. Yellow Currant</text>
+  <text y="173" class="hex">#D6AF4F · #F2D57C · #798648</text>
+</g>
+<g transform="translate(396 12047)">
+  <title>377. Red Fig · #A4435B / #D56872 / #E8C18C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A4435B"/>
+<rect x="60" width="40" height="75" fill="#D56872"/>
+<rect x="60" y="75" width="40" height="25" fill="#E8C18C"/></g>
+  <text y="155" class="name">377. Red Fig</text>
+  <text y="173" class="hex">#A4435B · #D56872 · #E8C18C</text>
+</g>
+<g transform="translate(582 12047)">
+  <title>378. Sweet Potato · #DE722F / #9C5462 / #EEAB5D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#DE722F"/>
+<rect x="60" width="40" height="75" fill="#9C5462"/>
+<rect x="60" y="75" width="40" height="25" fill="#EEAB5D"/></g>
+  <text y="155" class="name">378. Sweet Potato</text>
+  <text y="173" class="hex">#DE722F · #9C5462 · #EEAB5D</text>
+</g>
+<g transform="translate(768 12047)">
+  <title>379. Turmeric Root · #E99A19 / #B7783D / #F7C750</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E99A19"/>
+<rect x="60" width="40" height="75" fill="#B7783D"/>
+<rect x="60" y="75" width="40" height="25" fill="#F7C750"/></g>
+  <text y="155" class="name">379. Turmeric Root</text>
+  <text y="173" class="hex">#E99A19 · #B7783D · #F7C750</text>
+</g>
+<g transform="translate(954 12047)">
+  <title>380. Spring Onion · #43834C / #93B766 / #ECE5CF</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#43834C"/>
+<rect x="60" width="40" height="75" fill="#93B766"/>
+<rect x="60" y="75" width="40" height="25" fill="#ECE5CF"/></g>
+  <text y="155" class="name">380. Spring Onion</text>
+  <text y="173" class="hex">#43834C · #93B766 · #ECE5CF</text>
+</g>
+<g transform="translate(24 12235)">
+  <title>381. Greenhouse Cucumber · #2E6745 / #8BB164 / #D9E4AC</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#2E6745"/>
+<rect x="60" width="40" height="75" fill="#8BB164"/>
+<rect x="60" y="75" width="40" height="25" fill="#D9E4AC"/></g>
+  <text y="155" class="name">381. Greenhouse Cucumber</text>
+  <text y="173" class="hex">#2E6745 · #8BB164 · #D9E4AC</text>
+</g>
+<g transform="translate(210 12235)">
+  <title>382. Yellow Bell Pepper · #F3BF21 / #F9DA6E / #567538</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F3BF21"/>
+<rect x="60" width="40" height="75" fill="#F9DA6E"/>
+<rect x="60" y="75" width="40" height="25" fill="#567538"/></g>
+  <text y="155" class="name">382. Yellow Bell Pepper</text>
+  <text y="173" class="hex">#F3BF21 · #F9DA6E · #567538</text>
+</g>
+<g transform="translate(396 12235)">
+  <title>383. Green Bell Pepper · #368044 / #65A153 / #A6C271</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#368044"/>
+<rect x="60" width="40" height="75" fill="#65A153"/>
+<rect x="60" y="75" width="40" height="25" fill="#A6C271"/></g>
+  <text y="155" class="name">383. Green Bell Pepper</text>
+  <text y="173" class="hex">#368044 · #65A153 · #A6C271</text>
+</g>
+<g transform="translate(582 12235)">
+  <title>384. Tomato · #E14436 / #F27852 / #4F793A</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E14436"/>
+<rect x="60" width="40" height="75" fill="#F27852"/>
+<rect x="60" y="75" width="40" height="25" fill="#4F793A"/></g>
+  <text y="155" class="name">384. Tomato</text>
+  <text y="173" class="hex">#E14436 · #F27852 · #4F793A</text>
+</g>
+<g transform="translate(768 12235)">
+  <title>385. Beetroot · #8E2148 / #B74963 / #477445</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8E2148"/>
+<rect x="60" width="40" height="75" fill="#B74963"/>
+<rect x="60" y="75" width="40" height="25" fill="#477445"/></g>
+  <text y="155" class="name">385. Beetroot</text>
+  <text y="173" class="hex">#8E2148 · #B74963 · #477445</text>
+</g>
+<g transform="translate(954 12235)">
+  <title>386. Beet and Horseradish Relish · #942348 / #CA536E / #F0D7C4</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#942348"/>
+<rect x="60" width="40" height="75" fill="#CA536E"/>
+<rect x="60" y="75" width="40" height="25" fill="#F0D7C4"/></g>
+  <text y="155" class="name">386. Beet and Horseradish Relish</text>
+  <text y="173" class="hex">#942348 · #CA536E · #F0D7C4</text>
+</g>
+<g transform="translate(24 12423)">
+  <title>387. Celery · #86A64F / #BDD27D / #51783E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#86A64F"/>
+<rect x="60" width="40" height="75" fill="#BDD27D"/>
+<rect x="60" y="75" width="40" height="25" fill="#51783E"/></g>
+  <text y="155" class="name">387. Celery</text>
+  <text y="173" class="hex">#86A64F · #BDD27D · #51783E</text>
+</g>
+<g transform="translate(210 12423)">
+  <title>388. Pumpkin · #E27A2B / #F0AB52 / #626F3E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E27A2B"/>
+<rect x="60" width="40" height="75" fill="#F0AB52"/>
+<rect x="60" y="75" width="40" height="25" fill="#626F3E"/></g>
+  <text y="155" class="name">388. Pumpkin</text>
+  <text y="173" class="hex">#E27A2B · #F0AB52 · #626F3E</text>
+</g>
+<g transform="translate(396 12423)">
+  <title>389. Red Cabbage · #733D77 / #A3639D / #E2ACCC</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#733D77"/>
+<rect x="60" width="40" height="75" fill="#A3639D"/>
+<rect x="60" y="75" width="40" height="25" fill="#E2ACCC"/></g>
+  <text y="155" class="name">389. Red Cabbage</text>
+  <text y="173" class="hex">#733D77 · #A3639D · #E2ACCC</text>
+</g>
+<g transform="translate(582 12423)">
+  <title>390. Broccoli · #38643F / #66934D / #96AF63</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#38643F"/>
+<rect x="60" width="40" height="75" fill="#66934D"/>
+<rect x="60" y="75" width="40" height="25" fill="#96AF63"/></g>
+  <text y="155" class="name">390. Broccoli</text>
+  <text y="173" class="hex">#38643F · #66934D · #96AF63</text>
+</g>
+<g transform="translate(768 12423)">
+  <title>391. Zucchini · #346248 / #6C9751 / #D5D9A1</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#346248"/>
+<rect x="60" width="40" height="75" fill="#6C9751"/>
+<rect x="60" y="75" width="40" height="25" fill="#D5D9A1"/></g>
+  <text y="155" class="name">391. Zucchini</text>
+  <text y="173" class="hex">#346248 · #6C9751 · #D5D9A1</text>
+</g>
+<g transform="translate(954 12423)">
+  <title>392. Pattypan Squash · #E9C453 / #F3D98B / #76934E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E9C453"/>
+<rect x="60" width="40" height="75" fill="#F3D98B"/>
+<rect x="60" y="75" width="40" height="25" fill="#76934E"/></g>
+  <text y="155" class="name">392. Pattypan Squash</text>
+  <text y="173" class="hex">#E9C453 · #F3D98B · #76934E</text>
+</g>
+<g transform="translate(24 12611)">
+  <title>393. Rhubarb · #B94762 / #E17C87 / #77924E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B94762"/>
+<rect x="60" width="40" height="75" fill="#E17C87"/>
+<rect x="60" y="75" width="40" height="25" fill="#77924E"/></g>
+  <text y="155" class="name">393. Rhubarb</text>
+  <text y="173" class="hex">#B94762 · #E17C87 · #77924E</text>
+</g>
+<g transform="translate(210 12611)">
+  <title>394. Beef · #923841 / #C1575B / #F1D8BD</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#923841"/>
+<rect x="60" width="40" height="75" fill="#C1575B"/>
+<rect x="60" y="75" width="40" height="25" fill="#F1D8BD"/></g>
+  <text y="155" class="name">394. Beef</text>
+  <text y="173" class="hex">#923841 · #C1575B · #F1D8BD</text>
+</g>
+<g transform="translate(396 12611)">
+  <title>395. Salmon · #F48268 / #F6AD91 / #627776</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F48268"/>
+<rect x="60" width="40" height="75" fill="#F6AD91"/>
+<rect x="60" y="75" width="40" height="25" fill="#627776"/></g>
+  <text y="155" class="name">395. Salmon</text>
+  <text y="173" class="hex">#F48268 · #F6AD91 · #627776</text>
+</g>
+<g transform="translate(582 12611)">
+  <title>396. Lamb · #B85E64 / #E3A39C / #EED9C0</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#B85E64"/>
+<rect x="60" width="40" height="75" fill="#E3A39C"/>
+<rect x="60" y="75" width="40" height="25" fill="#EED9C0"/></g>
+  <text y="155" class="name">396. Lamb</text>
+  <text y="173" class="hex">#B85E64 · #E3A39C · #EED9C0</text>
+</g>
+<g transform="translate(768 12611)">
+  <title>397. Cacao Pod · #C36F31 / #8A344B / #EAD8AC</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#C36F31"/>
+<rect x="60" width="40" height="75" fill="#8A344B"/>
+<rect x="60" y="75" width="40" height="25" fill="#EAD8AC"/></g>
+  <text y="155" class="name">397. Cacao Pod</text>
+  <text y="173" class="hex">#C36F31 · #8A344B · #EAD8AC</text>
+</g>
+<g transform="translate(954 12611)">
+  <title>398. Coffee Cherries · #A32C37 / #547640 / #D76A41</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A32C37"/>
+<rect x="60" width="40" height="75" fill="#547640"/>
+<rect x="60" y="75" width="40" height="25" fill="#D76A41"/></g>
+  <text y="155" class="name">398. Coffee Cherries</text>
+  <text y="173" class="hex">#A32C37 · #547640 · #D76A41</text>
+</g>
+<g transform="translate(24 12799)">
+  <title>399. Sichuan Pepper · #A44839 / #CF8461 / #45302C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#A44839"/>
+<rect x="60" width="40" height="75" fill="#CF8461"/>
+<rect x="60" y="75" width="40" height="25" fill="#45302C"/></g>
+  <text y="155" class="name">399. Sichuan Pepper</text>
+  <text y="173" class="hex">#A44839 · #CF8461 · #45302C</text>
+</g>
+<g transform="translate(210 12799)">
+  <title>400. Red Peppercorn · #973D34 / #C16D55 / #704139</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#973D34"/>
+<rect x="60" width="40" height="75" fill="#C16D55"/>
+<rect x="60" y="75" width="40" height="25" fill="#704139"/></g>
+  <text y="155" class="name">400. Red Peppercorn</text>
+  <text y="173" class="hex">#973D34 · #C16D55 · #704139</text>
+</g>
+<g transform="translate(396 12799)">
+  <title>401. Pink Peppercorn · #CA6178 / #E9A3A9 / #8A374E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#CA6178"/>
+<rect x="60" width="40" height="75" fill="#E9A3A9"/>
+<rect x="60" y="75" width="40" height="25" fill="#8A374E"/></g>
+  <text y="155" class="name">401. Pink Peppercorn</text>
+  <text y="173" class="hex">#CA6178 · #E9A3A9 · #8A374E</text>
+</g>
+<text x="24" y="13019" class="section">Crazy · 13</text>
+<g transform="translate(24 13037)">
+  <title>402. Gouldian Finch · #6A9551 / #715B9E / #EEB32D</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#6A9551"/>
+<rect x="60" width="40" height="75" fill="#715B9E"/>
+<rect x="60" y="75" width="40" height="25" fill="#EEB32D"/></g>
+  <text y="155" class="name">402. Gouldian Finch</text>
+  <text y="173" class="hex">#6A9551 · #715B9E · #EEB32D</text>
+</g>
+<g transform="translate(210 13037)">
+  <title>403. Scarlet Macaw · #BB4A3D / #466BAC / #DAA53E</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#BB4A3D"/>
+<rect x="60" width="40" height="75" fill="#466BAC"/>
+<rect x="60" y="75" width="40" height="25" fill="#DAA53E"/></g>
+  <text y="155" class="name">403. Scarlet Macaw</text>
+  <text y="173" class="hex">#BB4A3D · #466BAC · #DAA53E</text>
+</g>
+<g transform="translate(396 13037)">
+  <title>404. Rainbow Lorikeet · #628140 / #405B94 / #CD6633</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#628140"/>
+<rect x="60" width="40" height="75" fill="#405B94"/>
+<rect x="60" y="75" width="40" height="25" fill="#CD6633"/></g>
+  <text y="155" class="name">404. Rainbow Lorikeet</text>
+  <text y="173" class="hex">#628140 · #405B94 · #CD6633</text>
+</g>
+<g transform="translate(582 13037)">
+  <title>405. Painted Bunting · #659840 / #385698 / #B24547</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#659840"/>
+<rect x="60" width="40" height="75" fill="#385698"/>
+<rect x="60" y="75" width="40" height="25" fill="#B24547"/></g>
+  <text y="155" class="name">405. Painted Bunting</text>
+  <text y="173" class="hex">#659840 · #385698 · #B24547</text>
+</g>
+<g transform="translate(768 13037)">
+  <title>406. Red-eyed Tree Frog · #799C43 / #DE4920 / #4583AD</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#799C43"/>
+<rect x="60" width="40" height="75" fill="#DE4920"/>
+<rect x="60" y="75" width="40" height="25" fill="#4583AD"/></g>
+  <text y="155" class="name">406. Red-eyed Tree Frog</text>
+  <text y="173" class="hex">#799C43 · #DE4920 · #4583AD</text>
+</g>
+<g transform="translate(954 13037)">
+  <title>407. Cuckoo Wasp · #2D7590 / #B35254 / #58B2A0</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#2D7590"/>
+<rect x="60" width="40" height="75" fill="#B35254"/>
+<rect x="60" y="75" width="40" height="25" fill="#58B2A0"/></g>
+  <text y="155" class="name">407. Cuckoo Wasp</text>
+  <text y="173" class="hex">#2D7590 · #B35254 · #58B2A0</text>
+</g>
+<g transform="translate(24 13225)">
+  <title>408. Bird of Paradise · #E38629 / #416294 / #6B8249</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E38629"/>
+<rect x="60" width="40" height="75" fill="#416294"/>
+<rect x="60" y="75" width="40" height="25" fill="#6B8249"/></g>
+  <text y="155" class="name">408. Bird of Paradise</text>
+  <text y="173" class="hex">#E38629 · #416294 · #6B8249</text>
+</g>
+<g transform="translate(210 13225)">
+  <title>409. Parrot Heliconia · #E0A84B / #D95148 / #628250</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#E0A84B"/>
+<rect x="60" width="40" height="75" fill="#D95148"/>
+<rect x="60" y="75" width="40" height="25" fill="#628250"/></g>
+  <text y="155" class="name">409. Parrot Heliconia</text>
+  <text y="173" class="hex">#E0A84B · #D95148 · #628250</text>
+</g>
+<g transform="translate(396 13225)">
+  <title>410. Mexican Sunflower · #D46B3A / #E3B03F / #778649</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#D46B3A"/>
+<rect x="60" width="40" height="75" fill="#E3B03F"/>
+<rect x="60" y="75" width="40" height="25" fill="#778649"/></g>
+  <text y="155" class="name">410. Mexican Sunflower</text>
+  <text y="173" class="hex">#D46B3A · #E3B03F · #778649</text>
+</g>
+<g transform="translate(582 13225)">
+  <title>411. Velvet Flower · #8E5086 / #DA8888 / #BAA14B</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#8E5086"/>
+<rect x="60" width="40" height="75" fill="#DA8888"/>
+<rect x="60" y="75" width="40" height="25" fill="#BAA14B"/></g>
+  <text y="155" class="name">411. Velvet Flower</text>
+  <text y="173" class="hex">#8E5086 · #DA8888 · #BAA14B</text>
+</g>
+<g transform="translate(768 13225)">
+  <title>412. Sicilian Tarocco Orange · #F07824 / #426936 / #B93536</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F07824"/>
+<rect x="60" width="40" height="75" fill="#426936"/>
+<rect x="60" y="75" width="40" height="25" fill="#B93536"/></g>
+  <text y="155" class="name">412. Sicilian Tarocco Orange</text>
+  <text y="173" class="hex">#F07824 · #426936 · #B93536</text>
+</g>
+<g transform="translate(954 13225)">
+  <title>413. Mango · #F4AF29 / #E75B41 / #7A963F</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#F4AF29"/>
+<rect x="60" width="40" height="75" fill="#E75B41"/>
+<rect x="60" y="75" width="40" height="25" fill="#7A963F"/></g>
+  <text y="155" class="name">413. Mango</text>
+  <text y="173" class="hex">#F4AF29 · #E75B41 · #7A963F</text>
+</g>
+<g transform="translate(24 13413)">
+  <title>414. Watermelon · #EA5764 / #34734B / #C3D28C</title>
+  <g transform="scale(1.36)"><rect width="60" height="100" fill="#EA5764"/>
+<rect x="60" width="40" height="75" fill="#34734B"/>
+<rect x="60" y="75" width="40" height="25" fill="#C3D28C"/></g>
+  <text y="155" class="name">414. Watermelon</text>
+  <text y="173" class="hex">#EA5764 · #34734B · #C3D28C</text>
+</g>
+</svg>

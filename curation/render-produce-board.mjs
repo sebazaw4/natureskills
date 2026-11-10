@@ -6,13 +6,23 @@ const catalog = JSON.parse(readFileSync(
 ));
 const concepts = readFileSync(new URL("../nature-colors/references/color-studies.txt", import.meta.url), "utf8")
   .trim().split(/\r?\n/).map(line => {
-    const [section, name, hex] = line.split("|");
-    return { section, name, colors: hex.split(" ").map(color => `#${color}`) };
+    const [section, name, hex, style] = line.split("|");
+    return { section, name, style, colors: hex.split(" ").map(color => `#${color}`) };
   });
 
-const groups = new Map();
+const styles = new Map([
+  ["professional", "Professional"],
+  ["brave", "Brave"],
+  ["crazy", "Crazy"],
+]);
+const byStyle = process.argv.includes("--styles");
+const groups = byStyle ? new Map([...styles.values()].map(label => [label, []])) : new Map();
 const names = new Set();
-const view = process.argv.includes("--flowers") ? {
+const view = byStyle ? {
+  title: "Palettes by style",
+  caption: "Professional is restrained, Brave adds a focal color, and Crazy brings three expressive hues together.",
+  output: "style-board.svg",
+} : process.argv.includes("--flowers") ? {
   subject: "flower",
   title: "Flower palette board",
   caption: "Color palettes inspired by petals, throats, stamens and foliage. Pending review.",
@@ -32,7 +42,8 @@ for (const palette of [...catalog, ...concepts]) {
   const name = palette.name.toLowerCase();
   if (names.has(name)) throw new Error(`Duplicate palette: ${palette.name}`);
   names.add(name);
-  const section = palette.section ?? "Food palettes sampled from photos";
+  if (!styles.has(palette.style)) throw new Error(`Invalid style for ${palette.name}`);
+  const section = byStyle ? styles.get(palette.style) : palette.section ?? "Food palettes sampled from photos";
   if (!groups.has(section)) groups.set(section, []);
   groups.get(section).push(palette);
 }
