@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="546" viewBox="0 0 990 546">
+<title>NatureColors batch 01</title>
+<rect width="990" height="546" fill="#FAF7F1"/>
+<g fill="#272621" font-family="system-ui, sans-serif">
+<text x="30" y="41" font-size="27" font-weight="700">NatureColors</text>
+<text x="30" y="63" font-size="13">Batch 01 · Fruit, vegetables &amp; Pistachio · Pending review</text>
+<g transform="translate(30 83)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#C49EAA"/>
+    <rect x="60" width="40" height="75" fill="#AAAD43"/>
+    <rect x="60" y="75" width="40" height="25" fill="#CEA378"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">1. Pistachio</text>
+  <text y="197" font-family="monospace" font-size="11">#C49EAA  #AAAD43  #CEA378</text>
+</g>
+<g transform="translate(222 83)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#F7D6C1"/>
+    <rect x="60" width="40" height="75" fill="#BE8985"/>
+    <rect x="60" y="75" width="40" height="25" fill="#6D3438"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">2. Red Onion</text>
+  <text y="197" font-family="monospace" font-size="11">#F7D6C1  #BE8985  #6D3438</text>
+</g>
+<g transform="translate(414 83)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#F1D18A"/>
+    <rect x="60" width="40" height="75" fill="#DDAA42"/>
+    <rect x="60" y="75" width="40" height="25" fill="#785222"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">3. Banana</text>
+  <text y="197" font-family="monospace" font-size="11">#F1D18A  #DDAA42  #785222</text>
+</g>
+<g transform="translate(606 83)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#A9BA61"/>
+    <rect x="60" width="40" height="75" fill="#DAD69A"/>
+    <rect x="60" y="75" width="40" height="25" fill="#595327"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">4. Kiwi</text>
+  <text y="197" font-family="monospace" font-size="11">#A9BA61  #DAD69A  #595327</text>
+</g>
+<g transform="translate(798 83)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#A52834"/>
+    <rect x="60" width="40" height="75" fill="#CB453C"/>
+    <rect x="60" y="75" width="40" height="25" fill="#D7A397"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">5. Pomegranate</text>
+  <text y="197" font-family="monospace" font-size="11">#A52834  #CB453C  #D7A397</text>
+</g>
+<g transform="translate(30 316)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#E37F18"/>
+    <rect x="60" width="40" height="75" fill="#3D762E"/>
+    <rect x="60" y="75" width="40" height="25" fill="#E1A54E"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">6. Carrot</text>
+  <text y="197" font-family="monospace" font-size="11">#E37F18  #3D762E  #E1A54E</text>
+</g>
+<g transform="translate(222 316)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#88AA42"/>
+    <rect x="60" width="40" height="75" fill="#777672"/>
+    <rect x="60" y="75" width="40" height="25" fill="#86462C"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">7. Avocado</text>
+  <text y="197" font-family="monospace" font-size="11">#88AA42  #777672  #86462C</text>
+</g>
+<g transform="translate(414 316)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#BA473C"/>
+    <rect x="60" width="40" height="75" fill="#CF6B2D"/>
+    <rect x="60" y="75" width="40" height="25" fill="#D3B08B"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">8. Blood Orange</text>
+  <text y="197" font-family="monospace" font-size="11">#BA473C  #CF6B2D  #D3B08B</text>
+</g>
+<g transform="translate(606 316)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#783F83"/>
+    <rect x="60" width="40" height="75" fill="#AD72AD"/>
+    <rect x="60" y="75" width="40" height="25" fill="#7F8133"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">9. Eggplant</text>
+  <text y="197" font-family="monospace" font-size="11">#783F83  #AD72AD  #7F8133</text>
+</g>
+<g transform="translate(798 316)">
+  <g transform="scale(1.56)">
+    <rect width="60" height="100" fill="#FBDCAF"/>
+    <rect x="60" width="40" height="75" fill="#D34325"/>
+    <rect x="60" y="75" width="40" height="25" fill="#750101"/>
+  </g>
+  <text y="178" font-size="15" font-weight="700">10. Red Apple</text>
+  <text y="197" font-family="monospace" font-size="11">#FBDCAF  #D34325  #750101</text>
+</g>
+</g>
+</svg>
